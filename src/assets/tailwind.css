@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .card {
+        @apply max-w-sm my-10 border bg-white border-slate-200 rounded-xl mx-auto p-5 shadow-md;
+    }
+    .button {
+        @apply font-lexend font-medium text-sm inline-flex bg-[#A69797] rounded-lg w-[21.5rem] max-w-full h-[3rem] uppercase align-middle flex-row-reverse leading-[3rem] tracking-widest justify-end pl-[calc(0.2rem+1.5rem)] px-6 items-center transition-all hover:bg-[#6E5050] hover:scale-[1.050];
+    }
+}
+
+html {
+    /* Controls the background image */
+    @apply bg-[url('/vite_assets/img/bg.jpg')] bg-cover bg-fixed;
+}

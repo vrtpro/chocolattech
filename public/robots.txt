@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://chocolatte.falcxxdev.ml/sitemap.xml
