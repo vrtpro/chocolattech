@@ -34,7 +34,7 @@ import { main, payment } from '../content';
                 <h5 class="text-[1.050rem] font-bold mb-5">Pay here</h5>
                 <ul class="buttons gap-2 flex flex-row flex-wrap text-white">
                     <li v-for="pay in payment" :key="pay.name" class="max-w-full">
-                        <a class="button w-[9.1rem] bg-[#857171]" :href="pay.dest">
+                        <a class="button w-[9.1rem]" :href="pay.dest">
                             <span class="flex-grow flex-shrink text-center w-full">{{ pay.name }}</span>
                         </a>
                     </li>
@@ -60,14 +60,9 @@ import { main, payment } from '../content';
         </div>
         <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
         <div class="text-center">
-            <Button
-                class="w-56 text-white bg-[#857171] mb-2"
-                name="Waiting List"
-                icon="fluent-mdl2:waitlist-confirm"
-                dest="/"
-            />
+            <Button class="w-56 text-white mb-2" name="Waiting List" icon="fluent-mdl2:waitlist-confirm" dest="/" />
             <br />
-            <Button class="w-56 text-white bg-[#857171]" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
+            <Button class="w-56 text-white" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
         </div>
     </Card>
 </template>

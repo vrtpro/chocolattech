@@ -14,14 +14,14 @@ import { Icon } from '@iconify/vue';
             <h5 class="text-[1.050rem] text-center font-bold">Phone case & Acrylic keychain Choco Latte</h5>
             <p class="font-lexend text-center text-[0.8rem] text-[#665A5A] mx-5 mb-2">Pre order @ Tokopedia</p>
             <img class="mb-5" src="/vite_assets/img/merch_1.jpg" alt="Merch 1" />
-            <a class="button w-[12rem] bg-[#857171] text-white my-2" href="https://tokopedia.com/erfolganime">
+            <a class="button w-[12rem] text-white my-2" href="https://tokopedia.com/erfolganime">
                 <Icon icon="material-symbols:shopping-cart" class="block flex-grow-0 shrink-0" width="32" height="32" />
                 <span class="flex-grow flex-shrink text-left w-full">Buy here!</span>
             </a>
         </div>
         <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
         <div class="text-center">
-            <Button class="w-36 text-white bg-[#857171]" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
+            <Button class="w-36 text-white" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
         </div>
     </Card>
 </template>

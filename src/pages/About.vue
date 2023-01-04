@@ -9,7 +9,7 @@ import { main } from '../content';
         <div class="profile text-center mt-6 mb-6">
             <img
                 class="w-[5.75rem] mb-3 rounded-full inline-block"
-                src="/vite_assets/img/profile.jpg"
+                src="/vite_assets/img/profile.webp"
                 alt="Profile Picture"
             />
             <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - Backstory</h5>
@@ -23,7 +23,7 @@ import { main } from '../content';
         </div>
         <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
         <div class="text-center">
-            <Button class="w-36 text-white bg-[#857171]" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
+            <Button class="w-36 text-white" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
         </div>
     </Card>
 </template>

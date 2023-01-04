@@ -33,7 +33,7 @@ import { main } from '../content';
         </div>
         <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
         <div class="text-center">
-            <Button class="w-36 text-white bg-[#857171]" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
+            <Button class="w-36 text-white" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
         </div>
     </Card>
 </template>

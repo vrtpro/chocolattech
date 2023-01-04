@@ -10,7 +10,7 @@ import { main, payment } from '../content';
             <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - Donation</h5>
         </div>
         <div class="img">
-            <img src="/vite_assets/img/chocoin.png" alt="Chocoin" />
+            <img src="/vite_assets/img/chocoin.webp" alt="Chocoin" />
         </div>
         <div class="links">
             <ul class="buttons gap-3 flex flex-row flex-wrap text-white">
@@ -23,7 +23,7 @@ import { main, payment } from '../content';
         </div>
         <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
         <div class="text-center">
-            <Button class="w-36 text-white bg-[#857171]" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
+            <Button class="w-36 text-white" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
         </div>
     </Card>
 </template>

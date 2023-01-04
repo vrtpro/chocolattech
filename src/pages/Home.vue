@@ -9,7 +9,9 @@ import { main, routes } from '../content';
         <div class="profile text-center mt-6 mb-6">
             <img
                 class="w-[5.75rem] mb-3 rounded-full inline-block"
-                src="/vite_assets/img/profile.jpg"
+                src="/vite_assets/img/profile.webp"
+                width="92px"
+                height="auto"
                 alt="Profile Picture"
             />
             <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }}</h5>
