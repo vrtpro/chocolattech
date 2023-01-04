@@ -24,9 +24,9 @@ Low-contrast text is difficult or impossible for many users to read. When backgr
 
 The most impacting things in accessibility is readability. If you have a sharp eyes, you may find the differences between this website and carrd.co version. Typography and readability. This website has bigger font size and have nice font type. In desktop with larger screen, when you visiting carrd.co version, you may can't read some text such as footer section, because the font size is set to `0.625em`. This font size is too small.
 
-| This version                                                     | carrd.co version |
-| ---------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------- |
-| ![This version](https://cdn.upload.systems/uploads/PvJvdvxp.png) |                  | ![carrd.co version](https://cdn.upload.systems/uploads/b7WluHhr.png) |
+| This version                                                     | carrd.co version                                                     |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![This version](https://cdn.upload.systems/uploads/PvJvdvxp.png) | ![carrd.co version](https://cdn.upload.systems/uploads/b7WluHhr.png) |
 
 ### Better grammar
 
