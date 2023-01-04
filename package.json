@@ -1,6 +1,6 @@
 {
     "name": "chocolatte-carrd",
-    "description": "Alternative website to ChocoLatte's Carrd",
+    "description": "Replica, replacement & alternative website to ChocoLatte's carrd",
     "private": true,
     "version": "0.0.1",
     "type": "module",
