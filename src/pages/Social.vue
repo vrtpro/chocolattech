@@ -20,7 +20,7 @@ import { Icon } from '@iconify/vue';
                 </li>
             </ul>
         </div>
-        <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
+        <div class="border-[0.5px] mx-5 my-5 border-chocolate-800" />
         <div class="text-center">
             <Button class="w-36 text-white" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
         </div>

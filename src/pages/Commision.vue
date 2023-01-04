@@ -9,7 +9,7 @@ import { main, payment } from '../content';
         <div class="profile text-center mt-6 mb-6">
             <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - Commision</h5>
         </div>
-        <div class="muchotexto font-lexend text-center text-[#665A5A] mx-5">
+        <div class="muchotexto font-lexend text-center text-chocolate-700 mx-5">
             <div class="pricelist">
                 <h5 class="text-[1.050rem] font-bold">Anime style pricelist</h5>
                 <p class="text-[0.9rem] my-2">
@@ -58,7 +58,7 @@ import { main, payment } from '../content';
                 />
             </div>
         </div>
-        <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
+        <div class="border-[0.5px] mx-5 my-5 border-chocolate-800" />
         <div class="text-center">
             <Button class="w-56 text-white mb-2" name="Waiting List" icon="fluent-mdl2:waitlist-confirm" dest="/" />
             <br />

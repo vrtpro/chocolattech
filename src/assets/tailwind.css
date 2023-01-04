@@ -7,7 +7,7 @@
         @apply max-w-sm my-10 border bg-white border-slate-200 rounded-xl mx-auto p-5 shadow-md;
     }
     .button {
-        @apply font-lexend font-medium text-sm inline-flex bg-[#857171] rounded-lg w-[21.5rem] max-w-full h-[3rem] uppercase align-middle flex-row-reverse leading-[3rem] tracking-widest justify-end pl-[calc(0.2rem+1.5rem)] px-6 items-center transition-all hover:bg-[#6E5050] hover:scale-[1.050];
+        @apply font-lexend font-medium text-sm inline-flex bg-chocolate-600 rounded-lg w-[21.5rem] max-w-full h-12 uppercase align-middle flex-row-reverse leading-[3rem] tracking-widest justify-end pl-[calc(0.2rem+1.5rem)] px-6 items-center transition-all hover:bg-chocolate-800 hover:scale-[1.050];
     }
 }
 
@@ -21,7 +21,7 @@ html {
     width: 6px;
 }
 ::-webkit-scrollbar-thumb {
-    @apply bg-[#857171];
+    @apply bg-chocolate-600;
 }
 ::-webkit-scrollbar-thumb:hover {
     @apply bg-[#6D5C5C];
@@ -32,9 +32,9 @@ html {
 
 /* Selection */
 ::-moz-selection {
-    @apply bg-[#857171] text-white;
+    @apply bg-chocolate-600 text-white;
 }
 
 ::selection {
-    @apply bg-[#857171] text-white;
+    @apply bg-chocolate-600 text-white;
 }
