@@ -1,0 +1,12 @@
+{
+    "github": {
+        "silent": true
+    },
+    "rewrites": [{ "source": "/(.*)", "destination": "/" }],
+    "redirects": [
+        {
+            "source": "/dev",
+            "destination": "https://github.com/gifaldyazkaa"
+        }
+    ]
+}
