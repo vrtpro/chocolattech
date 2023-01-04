@@ -1,18 +1,18 @@
 ## 🍫 Choco Latte チョコラテ
 
-Alternative website to [ChocoLatte's carrd.co](https://chocolattech.carrd.co/) with better improvements and better tech stack.
+Replica & alternative website to [ChocoLatte's carrd.co](https://chocolattech.carrd.co/) with better improvements and better tech stack.
 
 ## 🤔 What improved
 
 ### 💨 Performance
 
-Performace is important things in website. I saw carrd.co still using old way for routing, such as making new request to the server when routing to another page. In this version, I already fixed it and now it has nice way for routing. It won't make a new request to the server again, and this will speed up user's experience when visiting the website. With progress bar and spinner included when you navigating through pages to improve user interface.
+Performance is important things in website. I saw carrd.co still using old way for routing, such as making new request to the server when routing to another page. In this version, I already fixed it and now it has nice way for routing. It won't make a new request to the server again, and this will speed up user's experience when visiting the website. With progress bar and spinner included when you navigating through pages to improve user interface.
 
 | [carrd.co version](https://chocolattech.carrd.co/)           | This version                                             |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
 | ![carrd.co](https://cdn.upload.systems/uploads/Qpn83L86.png) | ![This](https://cdn.upload.systems/uploads/xA7CbxWZ.png) |
 
-### ☀️ Contrast Ratio
+### 🎨 Contrast Ratio
 
 Low-contrast text is difficult or impossible for many users to read. When background and text color having low-contrast, this impact many users. Users may difficult to read the text. This version was better and has nice contrast.
 
@@ -54,9 +54,9 @@ I will put this here because I know well I won't do them. Things that can be add
 
 | Task name                               | Priority | Reason                                                                                                                                                                                                   |
 | --------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚧 Version 1 with major concept changes | 🔴 High  | I was planning to made a different concept from carrd.co-like concept. This will be a major changes in concepts, structures, and styles. I will only do this when announcing this project & got noticed. |
-| 🪣 Complete waiting list page           | 🟡 Mid   | I'm giving up with creating responsive table in html. It's so scary so i decided to put it here.                                                                                                         |
-| 📱 Progressive Web App (PWA)            | 🟢 Low   | Too lazy to create a service-workers, serving lots of 64x64, 128x128, 256x256 icons, and there is a lot additional meta for PWA (apple-touch-icon, etc).                                                 |
+| 🚧 Version 1 with major concept changes | High     | I was planning to made a different concept from carrd.co-like concept. This will be a major changes in concepts, structures, and styles. I will only do this when announcing this project & got noticed. |
+| 🪣 Complete waiting list page           | Mid      | I'm giving up with creating responsive table in html. It's so scary so i decided to put it here.                                                                                                         |
+| 📱 Progressive Web App (PWA)            | Low      | Too lazy to create a service-workers, serving lots of 64x64, 128x128, 256x256 icons, and there is a lot additional meta for PWA (apple-touch-icon, etc).                                                 |
 
 ## 📃 License
 
