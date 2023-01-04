@@ -50,4 +50,4 @@ You better tell me.
 
 ## 📃 License
 
-Source Code distributed under [MIT License](./LICENSE). Copyrights to respective owner (ChocoLatte herself).
+I do not claim any assets here, credits are to the rightful owner. Source code distributed under MIT License. See [LICENSE file](./LICENSE) for more information.
