@@ -15,13 +15,13 @@ import { main } from '../content';
             <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - Backstory</h5>
         </div>
         <div class="muchotexto">
-            <p class="font-lexend text-[0.8rem] text-[#665A5A] mx-5">
+            <p class="font-lexend text-[0.8rem] text-chocolate-700 mx-5">
                 A princess from Sweets Kingdom. She has the power to become a cat. The princess accidentally enters the
                 portal to the virtual world so her powers are lost and become a fully human! How she will back to her
                 world?
             </p>
         </div>
-        <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
+        <div class="border-[0.5px] mx-5 my-5 border-chocolate-800" />
         <div class="text-center">
             <Button class="w-36 text-white" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
         </div>

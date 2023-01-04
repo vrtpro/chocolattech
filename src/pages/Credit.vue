@@ -10,9 +10,9 @@ import { main } from '../content';
             <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - Credit</h5>
         </div>
         <div class="muchotexto">
-            <p class="font-lexend text-center text-[0.8rem] text-[#665A5A] mx-5">Coming soon.</p>
+            <p class="font-lexend text-center text-[0.8rem] text-chocolate-700 mx-5">Coming soon.</p>
         </div>
-        <div class="border-[0.5px] mx-5 my-5 border-[#665A5A]" />
+        <div class="border-[0.5px] mx-5 my-5 border-chocolate-800" />
         <div class="text-center">
             <Button class="w-36 text-white" name="Back" icon="ic:round-keyboard-arrow-left" dest="/" />
         </div>

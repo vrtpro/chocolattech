@@ -23,6 +23,7 @@ import { main, routes } from '../content';
                 </li>
             </ul>
         </div>
+        <div class="border-[0.5px] mx-5 my-5 border-chocolate-800" />
     </Card>
 </template>
 
