@@ -32,13 +32,9 @@ import { main, payment } from '../content';
             </div>
             <div class="pay_to">
                 <h5 class="text-[1.050rem] font-bold mb-5">Pay here</h5>
-                <ul class="buttons gap-2 flex flex-row flex-wrap text-white">
-                    <li v-for="pay in payment" :key="pay.name" class="max-w-full">
-                        <a class="button w-[9.1rem]" :href="pay.dest" target="_blank" rel="noreferrer">
-                            <span class="flex-grow flex-shrink text-center w-full">{{ pay.name }}</span>
-                        </a>
-                    </li>
-                </ul>
+                <div class="text-center text-white">
+                    <Button class="w-48" name="Pay" icon="uiw:pay" :dest="{ name: 'Donation' }" />
+                </div>
             </div>
             <div class="art_example mt-5">
                 <img
