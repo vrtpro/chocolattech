@@ -1,8 +1,9 @@
-## 🍫 Choco Latte チョコラテ
-
-Replica, replacement & alternative website to [ChocoLatte's carrd.co](https://chocolattech.carrd.co/) with better improvements and better tech stack.
+[![Project banner](https://cdn.upload.systems/uploads/WhUOWXNu.png)](https://chocolatte.falcxxdev.ml)
+![Vercel state](https://img.shields.io/github/deployments/gifaldyazkaa/chocolattech/Production?label=Vercel&logo=vercel&logoColor=%23000&style=for-the-badge) ![CI Status](https://img.shields.io/github/actions/workflow/status/gifaldyazkaa/chocolattech/lint.yml?label=CI&logo=github-actions&style=for-the-badge) ![Wakatime stats](https://wakatime.com/badge/user/aac434b8-a027-4f92-ac90-e5b2ae48b541/project/73821d0e-fb85-4c7b-9e23-737ab53076e6.svg?style=for-the-badge)
 
 ## 🤔 What's improved
+
+This is a replica, replacement & alternative website to [ChocoLatte's carrd.co](https://chocolattech.carrd.co/) with better improvements and better tech stack. Here is some lists what's improved in this version.
 
 ### 💨 Performance
 
