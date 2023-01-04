@@ -1,6 +1,6 @@
 ## 🍫 Choco Latte チョコラテ
 
-Replica & alternative website to [ChocoLatte's carrd.co](https://chocolattech.carrd.co/) with better improvements and better tech stack.
+Replica, replacement & alternative website to [ChocoLatte's carrd.co](https://chocolattech.carrd.co/) with better improvements and better tech stack.
 
 ## 🤔 What improved
 
