@@ -12,6 +12,7 @@ import Credit from '../pages/Credit.vue';
 import Commision from '../pages/Commision.vue';
 import Donation from '../pages/Donation.vue';
 import Merchant from '../pages/Merchant.vue';
+import NotFound from '../pages/NotFound.vue';
 
 const routes: Routes = [
     {
@@ -61,6 +62,12 @@ const routes: Routes = [
         name: 'Merchandise',
         component: Merchant,
         meta: { title: `Merchandise` },
+    },
+    {
+        path: '/:catchAll(.*)',
+        name: 'NotFound',
+        component: NotFound,
+        meta: { title: `Page not Found | ${main.name}` },
     },
 ];
 
