@@ -48,6 +48,16 @@ You may find too, in carrd.co version, padding and margins are not consistent. L
 
 You better tell me.
 
+### 🗓️ Roadmap
+
+I will put this here because I know well I won't do them. Things that can be added or improved, priority, and the reason why I didn't do it:
+
+| Task name                               | Priority | Reason                                                                                                                                                                                                   |
+| --------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚧 Version 1 with major concept changes | High     | I was planning to made a different concept from carrd.co-like concept. This will be a major changes in concepts, structures, and styles. I will only do this when announcing this project & got noticed. |
+| 🪣 Complete waiting list page           | Middle   | I'm giving up with creating responsive table in html. It's so scary so i decided to put it here.                                                                                                         |
+| 📱 Progressive Web App (PWA)            | Low      | Too lazy to create a service-workers, serving lots of 64x64, 128x128, 256x256 icons, and there is a lot additional meta for PWA (apple-touch-icon, etc).                                                 |
+
 ## 📃 License
 
 I do not claim any assets here, credits are to the rightful owner. Source code distributed under MIT License. See [LICENSE file](./LICENSE) for more information.
