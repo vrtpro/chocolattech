@@ -15,7 +15,7 @@ import { main, payment } from '../content';
         <div class="links">
             <ul class="buttons gap-3 flex flex-row flex-wrap text-white">
                 <li v-for="pay in payment" :key="pay.name" class="max-w-full">
-                    <a class="button" :href="pay.dest">
+                    <a class="button" :href="pay.dest" target="_blank" rel="noreferrer">
                         <span class="flex-grow flex-shrink text-center w-full">{{ pay.name }}</span>
                     </a>
                 </li>
