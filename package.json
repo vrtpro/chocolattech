@@ -6,7 +6,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite --host",
-        "build": "sitemap-generator -f ./public/sitemap.xml -g daily -p 1.0 https://chocolatte.falcxxdev.ml/ && vue-tsc && vite build",
+        "build": "sitemap-generator -f ./public/sitemap.xml -g hourly -p 1.0 https://chocolatte.falcxxdev.ml/ && vue-tsc && vite build",
         "preview": "vite preview"
     },
     "license": "MIT",
