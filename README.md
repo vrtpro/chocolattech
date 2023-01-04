@@ -26,15 +26,23 @@ The most impacting things in accessibility is readability. If you have a sharp e
 
 | [carrd.co version](https://chocolattech.carrd.co/)           | This version                                             |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
-| ![carrd.co](https://cdn.upload.systems/uploads/b7WluHhr.png) | ![This](https://cdn.upload.systems/uploads/PvJvdvxp.png) |
+| ![carrd.co](https://cdn.upload.systems/uploads/akTUcguq.png) | ![This](https://cdn.upload.systems/uploads/itcY9oGt.png) |
 
 ### 🤟 Better grammar
 
-I found that the carrd.co version has a slighty messed up grammar. With double checking the content, I am now fixed this so users can better understand the aims and objectives conveyed on the website.
+I found that the carrd.co version has a slighty messed up grammar and using extravagant sentences. With double checking the content, I am now fixed this so users can better understand the aims and objectives conveyed on the website.
+
+| [carrd.co version](https://chocolattech.carrd.co/)           | This version                                             |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| ![carrd.co](https://cdn.upload.systems/uploads/PiMPd2Dv.png) | ![This](https://cdn.upload.systems/uploads/fPW74SsV.png) |
 
 ### 🚀 Better layout
 
 You may find too, in carrd.co version, padding and margins are not consistent. Like, it can be `1px`, `2px`, or `4px` in some elements. It's not fixed and same, so the website's appearance may messed up. In this version, with TailwindCSS help, I can make this more consistent.
+
+| [carrd.co version](https://chocolattech.carrd.co/)           | This version                                             |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| ![carrd.co](https://cdn.upload.systems/uploads/aSZmST7f.png) | ![This](https://cdn.upload.systems/uploads/VqF4aGMx.png) |
 
 ### 👀 and more...
 
