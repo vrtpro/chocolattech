@@ -48,7 +48,7 @@ You may find too, in carrd.co version, padding and margins are not consistent. L
 
 You better tell me.
 
-### 🗓️ Roadmap
+## 🗓️ Roadmap
 
 I will put this here because I know well I won't do them. Things that can be added or improved, priority, and the reason why I didn't do it:
 
@@ -57,6 +57,37 @@ I will put this here because I know well I won't do them. Things that can be add
 | 🚧 Version 1 with major concept changes | High     | I was planning to made a different concept from carrd.co-like concept. This will be a major changes in concepts, structures, and styles. I will only do this when announcing this project & got noticed. |
 | 🪣 Complete waiting list page           | Mid      | I'm giving up with creating responsive table in html. It's so scary so i decided to put it here.                                                                                                         |
 | 📱 Progressive Web App (PWA)            | Low      | Too lazy to create a service-workers, serving lots of 64x64, 128x128, 256x256 icons, and there is a lot additional meta for PWA (apple-touch-icon, etc).                                                 |
+
+## 🧑‍💻️ Developing
+
+To get this running on your machine, you could try these steps below:
+
+### 📥️ Clone the repository
+
+```bash
+$ git clone https://github.com/gifaldyazkaa/chocolattech.git
+$ cd chocolattech
+```
+
+### 📦️ Install dependencies
+
+```bash
+$ pnpm install
+```
+
+### 🏃️ Run it on development server
+
+```bash
+$ pnpm run dev
+# ...
+```
+
+### ⚡️ Optimizing for production
+
+```bash
+# Static deployment (Vercel, GH Pages, etc.)
+$ pnpm run build
+```
 
 ## 📃 License
 
