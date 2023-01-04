@@ -15,3 +15,26 @@ html {
     /* Controls the background image */
     @apply bg-[url('/vite_assets/img/bg.jpg')] bg-cover bg-fixed;
 }
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-thumb {
+    @apply bg-[#857171];
+}
+::-webkit-scrollbar-thumb:hover {
+    @apply bg-[#6D5C5C];
+}
+::-webkit-scrollbar-thumb:active {
+    @apply bg-[#4e4141];
+}
+
+/* Selection */
+::-moz-selection {
+    @apply bg-[#857171] text-white;
+}
+
+::selection {
+    @apply bg-[#857171] text-white;
+}
