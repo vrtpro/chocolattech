@@ -8,7 +8,7 @@ import { Icon } from '@iconify/vue';
 <template>
     <Card>
         <div class="profile text-center mt-6 mb-6">
-            <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - SNS</h5>
+            <h5 class="font-lexend font-bold text-slate-700 text-lg">{{ main.name }} - SNS</h5>
         </div>
         <div class="links">
             <ul class="buttons gap-3 flex flex-row flex-wrap text-white">

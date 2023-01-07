@@ -7,7 +7,7 @@ import { main } from '../content';
 <template>
     <Card>
         <div class="profile text-center mt-6 mb-6">
-            <h2 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - Model</h2>
+            <h2 class="font-lexend font-bold text-slate-700 text-lg">{{ main.name }} - Model</h2>
         </div>
         <div class="model__traveler mb-2">
             <h4 class="font-lexend font-semibold text-[1.050rem] text-center text-chocolate-700 mb-2">

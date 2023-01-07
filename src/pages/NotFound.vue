@@ -7,7 +7,7 @@ import { main } from '../content';
 <template>
     <Card>
         <div class="profile text-center mt-6 mb-6">
-            <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - 404</h5>
+            <h5 class="font-lexend font-bold text-slate-700 text-lg">{{ main.name }} - 404</h5>
         </div>
         <div class="muchotexto text-chocolate-700 font-lexend my-10">
             <h2 class="mx-5 text-3xl">(ರ⁠_⁠ರ)</h2>
