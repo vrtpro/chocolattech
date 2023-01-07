@@ -5,7 +5,6 @@ module.exports = {
         extend: {
             fontFamily: {
                 lexend: ['Lexend', 'sans-serif'],
-                noto_jp: ['Noto Sans JP', 'sans-serif'],
             },
             colors: {
                 'chocolate-500': '#A69797',
