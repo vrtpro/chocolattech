@@ -7,7 +7,7 @@ import { main, payment } from '../content';
 <template>
     <Card>
         <div class="profile text-center mt-6">
-            <h5 class="font-noto_jp font-bold text-slate-700 text-lg">{{ main.name }} - Donation</h5>
+            <h5 class="font-lexend font-bold text-slate-700 text-lg">{{ main.name }} - Donation</h5>
         </div>
         <div class="img">
             <img src="/vite_assets/img/chocoin.webp" alt="Chocoin" />
