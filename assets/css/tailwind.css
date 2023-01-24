@@ -8,10 +8,31 @@
     }
 }
 
+/* Controls the background image */
 html {
     @apply bg-[url('/img/bg.jpg')] bg-cover bg-center;
 }
 
+/* Navigation links */
+.navbar__link {
+    @apply hover:bg-chocolate-600 hover:rounded-md hover:text-[#ffb5cd] hover:block hover:h-7 hover:text-center transition-all;
+}
 li .navbar__link.router-link-exact-active {
-    @apply bg-[#ffb5cd] rounded-md text-chocolate-700 block h-7 w-10 text-center transition-all;
+    @apply bg-chocolate-600 rounded-md text-[#ffb5cd] block h-7 w-10 text-center;
+}
+
+/* Browser scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-thumb {
+    @apply bg-[#ff93b5] hover:bg-[#ff7fa8] active:bg-[#ff6c9b];
+}
+
+/* Browser selection */
+::-moz-selection {
+    @apply bg-chocolate-700 text-[#ff93b5];
+}
+::selection {
+    @apply bg-chocolate-700 text-[#ff93b5];
 }
