@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+    .navbar {
+        @apply mx-auto p-2 px-14;
+    }
+}
+
+html {
+    @apply bg-[url('/img/bg.jpg')] bg-cover bg-center;
+}
+
+li .navbar__link.router-link-exact-active {
+    @apply bg-[#ffb5cd] rounded-md text-chocolate-700 block h-7 w-10 text-center transition-all;
+}
