@@ -14,7 +14,7 @@ html {
 }
 
 /* Navigation links */
-.navbar__link {
+li .navbar__link {
     @apply hover:bg-chocolate-600 hover:rounded-md hover:text-[#ffb5cd] hover:block hover:h-7 hover:text-center transition-all;
 }
 li .navbar__link.router-link-exact-active {
