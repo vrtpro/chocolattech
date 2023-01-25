@@ -1,9 +1,13 @@
+<script setup lang="ts">
+useHead({
+    title: 'About',
+});
+</script>
+
 <template>
     <FullScreenCard>
         <div>About</div>
     </FullScreenCard>
 </template>
-
-<script setup lang="ts"></script>
 
 <style></style>
