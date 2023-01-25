@@ -6,13 +6,7 @@
             <nav class="mx-auto p-4 py-3 h-14 bg-[#ffb5cd] text-white flex justify-between shadow-lg rounded-2xl z-10">
                 <div class="w-fit">
                     <NuxtLink to="/" class="navbar__link" aria-label="Choco Logo">
-                        <img
-                            src="https://media.discordapp.net/attachments/953176156000104539/977521586393473024/logo.png"
-                            alt="Logo"
-                            class="w-24"
-                            width="0"
-                            height="0"
-                        />
+                        <img src="/img/logo.webp" alt="Logo" class="w-24" width="0" height="0" />
                     </NuxtLink>
                 </div>
                 <div class="bg-white h-8 text-chocolate-700 rounded-lg px-4 transition-all">

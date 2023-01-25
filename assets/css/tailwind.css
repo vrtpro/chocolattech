@@ -10,7 +10,7 @@
 
 /* Controls the background image */
 html {
-    @apply bg-[url('/img/bg.jpg')] bg-cover bg-center;
+    @apply bg-[url('/img/bg.webp')] bg-cover bg-center;
 }
 
 /* Navigation links */
