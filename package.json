@@ -1,4 +1,6 @@
 {
+    "name": "chocolatte-nuxt",
+    "version": "1.0.0-beta",
     "private": true,
     "scripts": {
         "build": "nuxt build",
@@ -6,6 +8,11 @@
         "generate": "nuxt generate",
         "preview": "nuxt preview",
         "postinstall": "nuxt prepare"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Falcxxdev",
+        "email": "me@falcxxdev.ml"
     },
     "devDependencies": {
         "@nuxtjs/tailwindcss": "^6.2.0",
