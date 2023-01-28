@@ -11,7 +11,7 @@ export const _initHead = () => {
             { name: 'charset', content: 'utf-8' },
             { name: 'description', content: 'Choco Berry website with Nuxt 3' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
-            { name: 'author', contnet: 'Choco Berry' },
+            { name: 'author', content: 'Choco Berry' },
         ],
     });
 };
