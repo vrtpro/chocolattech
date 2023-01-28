@@ -2,6 +2,12 @@
 export default defineNuxtConfig({
     modules: ['@nuxtjs/tailwindcss', 'nuxt-icon'],
     builder: 'vite',
+    app: {
+        pageTransition: {
+            name: 'page',
+            mode: 'out-in',
+        },
+    },
     tailwindcss: {
         cssPath: '~/assets/css/tailwind.css',
     },
