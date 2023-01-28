@@ -1,4 +1,8 @@
 <script setup lang="ts">
+useHead({
+    title: 'Donation',
+});
+
 const provider = ref([
     { name: 'Sociabuzz', url: 'https://sociabuzz.com/chocolatte' },
     { name: 'Trakteer', url: 'https://trakteer.id/chocolattech_/tip' },
@@ -15,7 +19,7 @@ const provider = ref([
             <p class="text-base text-chocolate-700">
                 You can support by donating Chocoin to help choco creating more content!
             </p>
-            <div class="lg:grid grid-cols-1 lg:gap-4 md:grid-cols-3 mt-4">
+            <div class="lg:grid grid-cols-1 lg:gap-2 md:grid-cols-3 mt-4">
                 <a
                     v-for="prov in provider"
                     :href="prov.url"

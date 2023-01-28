@@ -1,3 +1,9 @@
+<script setup lang="ts">
+useHead({
+    title: 'Merchandise',
+});
+</script>
+
 <template>
     <FullScreenCard class="h-auto">
         <FlexCard>
@@ -14,10 +20,10 @@
                     <h1 class="text-2xl text-chocolate-800 text-center font-bold">
                         Phone case & Acrylic keychain Choco Latte
                     </h1>
-                    <p class="text-base text-chocolate-700 my-3 text-center">Pre order @ Tokopedia</p>
+                    <p class="text-base text-chocolate-700 mb-4 mt-2 text-center">Pre order @ Tokopedia</p>
                     <a
                         href="https://tokopedia.com/erfolganime"
-                        class="button w-full my-1 mb-4"
+                        class="button w-full mb-4"
                         target="_blank"
                         rel="noreferrer"
                     >
@@ -34,7 +40,5 @@
         </FlexCard>
     </FullScreenCard>
 </template>
-
-<script setup lang="ts"></script>
 
 <style></style>

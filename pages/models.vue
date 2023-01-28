@@ -1,4 +1,8 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useHead({
+    title: 'LIVE2D models',
+});
+</script>
 
 <template>
     <FullScreenCard class="h-auto">
