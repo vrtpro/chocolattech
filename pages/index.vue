@@ -7,12 +7,7 @@ useHead({
 <template>
     <FullScreenCard class="lg:flex h-auto">
         <div class="hidden p-2 lg:block lg:py-16 lg:flex-1">
-            <!-- TESTING PURPOSES ONLY. DOWNLOAD ASSETS & CHANGE TO LOCAL PATH! -->
-            <img
-                src="https://cdn.discordapp.com/attachments/953176156000104539/954697424960638976/Choco_with_Mahjong.png"
-                alt="Model"
-                class="h-[30rem] m-auto"
-            />
+            <img src="/img/choco_with_mahjong.png" alt="Model" class="h-[30rem] m-auto" />
         </div>
         <div class="p-2 lg:py-16 lg:flex lg:w-1/2">
             <div class="my-4 lg:mt-28">
@@ -25,12 +20,7 @@ useHead({
             </div>
         </div>
         <div class="lg:hidden p-2 block lg:py-16 lg:flex-1">
-            <!-- TESTING PURPOSES ONLY. DOWNLOAD ASSETS & CHANGE TO LOCAL PATH! -->
-            <img
-                src="https://cdn.discordapp.com/attachments/953176156000104539/954697424960638976/Choco_with_Mahjong.png"
-                alt="Model"
-                class="h-[32rem] m-auto"
-            />
+            <img src="/img/choco_with_mahjong.png" alt="Model" class="h-[32rem] m-auto" />
         </div>
     </FullScreenCard>
 </template>

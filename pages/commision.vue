@@ -28,25 +28,13 @@ useHead({
             <h2 class="text-lg text-chocolate-600 font-semibold my-2">Work samples</h2>
             <div class="grid grid-cols-1 gap-2 md:grid-cols-3 mt-4">
                 <div class="grid-card group">
-                    <img
-                        class="object-cover object-center m-auto"
-                        src="https://chocolatte.falcxxdev.ml/vite_assets/img/art/art_1.jpg"
-                        alt="Sample"
-                    />
+                    <img class="object-cover object-center m-auto" src="/img/art/art_1.jpg" alt="Sample" />
                 </div>
                 <div class="grid-card group">
-                    <img
-                        class="object-cover object-center m-auto"
-                        src="https://chocolatte.falcxxdev.ml/vite_assets/img/art/art_2.jpg"
-                        alt="Sample"
-                    />
+                    <img class="object-cover object-center m-auto" src="/img/art/art_2.jpg" alt="Sample" />
                 </div>
                 <div class="grid-card group">
-                    <img
-                        class="object-cover object-center m-auto"
-                        src="https://chocolatte.falcxxdev.ml/vite_assets/img/art/art_3.jpg"
-                        alt="Sample"
-                    />
+                    <img class="object-cover object-center m-auto" src="/img/art/art_3.jpg" alt="Sample" />
                 </div>
             </div>
             <h2 class="text-lg text-chocolate-600 font-semibold my-4">Make a deal now!</h2>

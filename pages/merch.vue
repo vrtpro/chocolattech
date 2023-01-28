@@ -8,12 +8,7 @@ useHead({
     <FullScreenCard class="h-auto">
         <FlexCard>
             <div class="p-2 lg:py-16 lg:flex-1">
-                <!-- TESTING PURPOSES ONLY. DOWNLOAD ASSETS & CHANGE TO LOCAL PATH! -->
-                <img
-                    src="https://chocolatte.falcxxdev.ml/vite_assets/img/merch_1.jpg"
-                    alt="Merch 1"
-                    class="h-[22rem] m-auto rounded-xl shadow-md"
-                />
+                <img src="/img/merch_1.jpg" alt="Merch 1" class="h-[22rem] m-auto rounded-xl shadow-md" />
             </div>
             <div class="px-5 lg:py-auto lg:flex lg:w-1/2">
                 <div class="my-4 px-3 lg:mt-36 mx-auto">

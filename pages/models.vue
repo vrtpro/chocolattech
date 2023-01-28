@@ -17,12 +17,7 @@ useHead({
                 </div>
             </div>
             <div class="p-2 lg:py-16 lg:flex-1">
-                <!-- TESTING PURPOSES ONLY. DOWNLOAD ASSETS & CHANGE TO LOCAL PATH! -->
-                <img
-                    src="https://cdn.discordapp.com/attachments/953176156000104539/953177023495405599/Choco_Latte_Assets.png"
-                    alt="Traveler model"
-                    class="h-[25rem] m-auto"
-                />
+                <img src="/img/traveler_origin.png" alt="Traveler model" class="h-[25rem] m-auto" />
             </div>
         </FlexCard>
         <FlexCard>
@@ -33,12 +28,7 @@ useHead({
                 </div>
             </div>
             <div class="p-2 lg:py-16 lg:flex-1">
-                <!-- TESTING PURPOSES ONLY. DOWNLOAD ASSETS & CHANGE TO LOCAL PATH! -->
-                <img
-                    src="https://chocolatte.falcxxdev.ml/vite_assets/img/princess_model.png"
-                    alt="Princess model"
-                    class="h-[25rem] m-auto"
-                />
+                <img src="/img/princess_model.png" alt="Princess model" class="h-[25rem] m-auto" />
             </div>
         </FlexCard>
         <FlexCard>
@@ -49,12 +39,7 @@ useHead({
                 </div>
             </div>
             <div class="p-2 lg:py-16 lg:flex-1">
-                <!-- TESTING PURPOSES ONLY. DOWNLOAD ASSETS & CHANGE TO LOCAL PATH! -->
-                <img
-                    src="https://chocolatte.falcxxdev.ml/vite_assets/img/loli_model.png"
-                    alt="Loli model"
-                    class="h-[25rem] m-auto"
-                />
+                <img src="/img/loli_model.png" alt="Loli model" class="h-[25rem] m-auto" />
             </div>
         </FlexCard>
     </FullScreenCard>
