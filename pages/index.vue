@@ -16,12 +16,11 @@ useHead({
         </div>
         <div class="p-2 lg:py-16 lg:flex lg:w-1/2">
             <div class="my-4 lg:mt-28">
-                <h1 class="text-2xl text-chocolate-800 text-center font-bold">Choco Berry チョコラテ</h1>
+                <h1 class="text-3xl text-chocolate-800 text-center font-bold">Choco Berry チョコラテ</h1>
                 <h2 class="text-md text-slate-400 text-center font-bold italic">/ chocoberri /</h2>
                 <p class="text-base text-chocolate-700 my-3 text-center">
-                    A princess from Sweets Kingdom. She has power to become a cat. The princess accidentally enter a
-                    portal to the virtual world, so her power are lost and become a fully human! How she will back to
-                    her world?
+                    Hello everyone, my name is Choco Latte. I will be your virtual friend from now on and in the future.
+                    Nice to meet you, my virtual best friend!
                 </p>
             </div>
         </div>
@@ -30,7 +29,7 @@ useHead({
             <img
                 src="https://cdn.discordapp.com/attachments/953176156000104539/954697424960638976/Choco_with_Mahjong.png"
                 alt="Model"
-                class="h-[30rem] m-auto"
+                class="h-[32rem] m-auto"
             />
         </div>
     </FullScreenCard>
