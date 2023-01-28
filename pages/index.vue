@@ -5,7 +5,7 @@ useHead({
 </script>
 
 <template>
-    <FullScreenCard class="lg:flex">
+    <FullScreenCard class="lg:flex h-auto">
         <div class="hidden p-2 lg:block lg:py-16 lg:flex-1">
             <!-- TESTING PURPOSES ONLY. DOWNLOAD ASSETS & CHANGE TO LOCAL PATH! -->
             <img
