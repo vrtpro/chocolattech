@@ -26,6 +26,21 @@
                                 ><Icon name="mdi:tshirt-crew"
                             /></NuxtLink>
                         </li>
+                        <li class="navbar__list">
+                            <NuxtLink to="/commision" class="navbar__link" aria-label="Commision page"
+                                ><Icon name="mdi:paintbrush"
+                            /></NuxtLink>
+                        </li>
+                        <li class="navbar__list">
+                            <NuxtLink to="/donation" class="navbar__link" aria-label="Donation page"
+                                ><Icon name="bxs:donate-heart"
+                            /></NuxtLink>
+                        </li>
+                        <li class="navbar__list">
+                            <NuxtLink to="/merch" class="navbar__link" aria-label="Merchandise page"
+                                ><Icon name="material-symbols:shopping-cart"
+                            /></NuxtLink>
+                        </li>
                     </ul>
                 </div>
             </nav>
