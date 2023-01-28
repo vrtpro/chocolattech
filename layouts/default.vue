@@ -15,4 +15,13 @@ _initHead();
 :root {
     --gradient: linear-gradient(to right, #0ea5e9, #8b5cf6, #f67185);
 }
+.page-enter-active,
+.page-leave-active {
+    transition: all 0.4s;
+}
+.page-enter-from,
+.page-leave-to {
+    opacity: 0;
+    filter: blur(8px);
+}
 </style>
