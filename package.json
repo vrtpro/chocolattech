@@ -2,7 +2,6 @@
     "name": "chocolatte-nuxt",
     "version": "1.0.0-beta",
     "private": true,
-    "version": "v1.0.0-beta",
     "type": "module",
     "scripts": {
         "build": "nuxt build",
