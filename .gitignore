@@ -1,5 +1,13 @@
+# Bloats
 node_modules
+
+# Logs
 *.log*
+
+# VSCode settings & extensions
+.vscode
+
+# Nuxt 3
 .nuxt
 .nitro
 .cache
