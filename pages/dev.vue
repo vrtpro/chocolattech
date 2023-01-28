@@ -38,8 +38,8 @@ const dev = ref({
                         </h1>
                     </a>
                     <p class="text-base text-chocolate-700 text-center my-2">
-                        Passionate Front-end website developer with Nuxt 3 power. Currently studying Aviation
-                        Electronics (AVE). As seen on GitHub & Twitter.
+                        Passionate Front-end website developer mastering in Vue & Nuxt ecosystem. Currently studying
+                        Avionics (AVE).
                     </p>
                     <p class="text-sm text-chocolate-700 text-center my-2">
                         Role: Web developer, Web admin, Web manager
