@@ -32,8 +32,8 @@ const _sns = ref([
                     She is mostly doing random things on YouTube Live. such as Playing Games (Genshin Impact is
                     most-played game), Karaoke, QnA, Reviews, etc.
                     <br /><br />
-                    Her fan name is Chocochips. Mostly pronounced by her like <span>/ chococip /</span>, and Chocochips
-                    is a base-role for regular member in discord server.
+                    Her fan name is Chocochips. Mostly pronounced by her like <span class="italic">/ chococip /</span>,
+                    and Chocochips is a base-role for regular member in discord server.
                 </p>
                 <h2 class="text-lg text-chocolate-600 font-bold my-2">Rules for viewers</h2>
                 <p class="text-base text-chocolate-700">
@@ -61,8 +61,8 @@ const _sns = ref([
                 </div>
             </div>
         </div>
-        <div>
-            <h1 class="text-3xl text-chocolate-800 font-bold">SNS - Social Networking Sites</h1>
+        <div class="p-2">
+            <h1 class="text-3xl text-chocolate-800 font-bold">SNS</h1>
             <div class="lg:grid grid-cols-1 lg:gap-2 md:grid-cols-3 mt-4">
                 <a
                     v-for="sns in _sns"
