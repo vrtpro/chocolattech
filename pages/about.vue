@@ -2,6 +2,16 @@
 useHead({
     title: 'About',
 });
+
+const _sns = ref([
+    { name: 'YouTube', icon: 'mdi:youtube', url: 'https://www.youtube.com/channel/UCOrmSFsEeZsMd464vcBTILg' },
+    { name: 'Twitter', icon: 'mdi:twitter', url: 'https://twitter.com/ChocoLatteCh_' },
+    { name: 'Facebook', icon: 'mdi:facebook', url: 'https://www.facebook.com/ChocoLatte.Channel' },
+    { name: 'TikTok', icon: 'ic:baseline-tiktok', url: 'https://www.tiktok.com/@chocolattech_' },
+    { name: 'Instagram', icon: 'mdi:instagram', url: 'https://www.instagram.com/chocolattech_' },
+    { name: 'Twitch', icon: 'mdi:twitch', href: 'https://www.twitch.tv/chocolattech' },
+    { name: 'Discord server', icon: 'ic:baseline-discord', href: 'https://discord.gg/cVmy5bTaTs' },
+]);
 </script>
 
 <template>
@@ -49,6 +59,21 @@ useHead({
                     <p class="text-base text-chocolate-700">Re-debut with new-look LIVE2D model & birthday party.</p>
                     <p class="text-sm text-center text-chocolate-700 my-2">and more things in future . . .</p>
                 </div>
+            </div>
+        </div>
+        <div>
+            <h1 class="text-3xl text-chocolate-800 font-bold">SNS - Social Networking Sites</h1>
+            <div class="lg:grid grid-cols-1 lg:gap-2 md:grid-cols-3 mt-4">
+                <a
+                    v-for="sns in _sns"
+                    :href="sns.url"
+                    target="_blank"
+                    rel="noreferrer nofollow me"
+                    class="button w-full my-1"
+                >
+                    <Icon :name="sns.icon" class="block flex-grow-0 shrink-0" width="32" height="32" />
+                    <span class="flex-grow flex-shrink text-left w-full">{{ sns.name }}</span>
+                </a>
             </div>
         </div>
     </FullScreenCard>
