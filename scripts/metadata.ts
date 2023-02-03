@@ -14,6 +14,7 @@ export const _initHead = () => {
             { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
             { name: 'author', content: 'Choco Latte' },
             { name: 'publisher', content: 'Falcxxdev' },
+            { name: 'theme-color', content: '#ff93b5' },
         ],
         link: [
             { rel: 'icon', href: '/svgs/icon.svg', type: 'image/svg+xml' },
