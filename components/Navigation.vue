@@ -6,11 +6,11 @@
             <nav class="mx-auto p-4 py-3 h-14 bg-[#ffb5cd] text-white flex justify-between shadow-lg rounded-2xl z-10">
                 <div class="w-fit">
                     <NuxtLink to="/" class="navbar__link" aria-label="Choco Logo">
-                        <img src="/img/logo.webp" alt="Logo" class="w-24" width="0" height="0" />
+                        <img src="/img/logo.webp" alt="Logo" class="w-24 h-auto" width="0" height="0" />
                     </NuxtLink>
                 </div>
-                <div class="bg-white h-8 text-chocolate-700 rounded-lg px-4 transition-all">
-                    <ul class="flex gap-4 pt-[0.15rem]">
+                <div class="bg-white h-8 text-chocolate-700 rounded-lg px-3 transition-all">
+                    <ul class="flex gap-3 pt-[0.15rem]">
                         <li class="navbar__list">
                             <NuxtLink to="/" class="navbar__link" aria-label="Home page"
                                 ><Icon name="material-symbols:home"
