@@ -20,7 +20,7 @@ useHead({
             </div>
         </div>
         <div class="lg:hidden p-2 block lg:py-16 lg:flex-1">
-            <img src="/img/choco_with_mahjong.webp" alt="Model" class="h-[32rem] w-auto m-auto" height="0" width="0" />
+            <img src="/img/choco_with_mahjong.webp" alt="Model" class="w-auto m-auto" height="0" width="0" />
         </div>
     </FullScreenCard>
 </template>
