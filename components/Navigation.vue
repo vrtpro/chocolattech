@@ -9,8 +9,8 @@
                         <img src="/img/logo.webp" alt="Logo" class="w-24 h-auto" width="0" height="0" />
                     </NuxtLink>
                 </div>
-                <div class="bg-white h-8 text-chocolate-700 rounded-lg px-3 transition-all">
-                    <ul class="flex gap-3 pt-[0.15rem]">
+                <div class="bg-white h-8 text-chocolate-700 rounded-lg px-4 transition-all">
+                    <ul class="flex gap-4 pt-[0.15rem]">
                         <li class="navbar__list">
                             <NuxtLink to="/" class="navbar__link" aria-label="Home page"
                                 ><Icon name="material-symbols:home"
