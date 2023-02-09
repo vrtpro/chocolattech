@@ -17,10 +17,10 @@
         "email": "me@falcxxdev.ml"
     },
     "devDependencies": {
-        "@nuxtjs/tailwindcss": "^6.2.0",
-        "nuxt": "^3.0.0",
-        "nuxt-icon": "^0.2.7",
-        "prettier": "^2.8.4",
-        "sitemap-generator-cli": "^7.5.0"
+        "@nuxtjs/tailwindcss": "6.2.0",
+        "nuxt": "3.0.0",
+        "nuxt-icon": "0.2.7",
+        "prettier": "2.8.4",
+        "sitemap-generator-cli": "7.5.0"
     }
 }
