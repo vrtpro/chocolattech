@@ -7,6 +7,7 @@
         "build": "sitemap-generator -f ./public/sitemap.xml -g hourly -p 1.0 https://chocolatte.falcxxdev.ml/ && nuxt build",
         "dev": "nuxt dev",
         "generate": "nuxt generate",
+        "lint": "prettier -c .",
         "preview": "nuxt preview",
         "postinstall": "nuxt prepare"
     },
