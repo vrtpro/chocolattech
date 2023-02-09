@@ -4,12 +4,14 @@ specifiers:
   '@nuxtjs/tailwindcss': ^6.2.0
   nuxt: ^3.0.0
   nuxt-icon: ^0.2.7
+  prettier: ^2.8.4
   sitemap-generator-cli: ^7.5.0
 
 devDependencies:
   '@nuxtjs/tailwindcss': 6.2.0
   nuxt: 3.0.0
   nuxt-icon: 0.2.7
+  prettier: 2.8.4
   sitemap-generator-cli: 7.5.0
 
 packages:
@@ -4614,6 +4616,12 @@ packages:
       nanoid: 3.3.4
       picocolors: 1.0.0
       source-map-js: 1.0.2
+    dev: true
+
+  /prettier/2.8.4:
+    resolution: {integrity: sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
     dev: true
 
   /pretty-bytes/6.0.0:
