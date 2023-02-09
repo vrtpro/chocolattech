@@ -1,42 +1,56 @@
-# Nuxt 3 Minimal Starter
+[![Project banner](https://cdn.upload.systems/uploads/uVTChAIa.png)](https://chocolatte.falcxxdev.ml)
+![Vercel state](https://img.shields.io/github/deployments/gifaldyazkaa/chocolattech/Production?label=Vercel&logo=vercel&logoColor=%23000&style=for-the-badge) ![CI Status](https://img.shields.io/github/actions/workflow/status/gifaldyazkaa/chocolattech/lint.yml?label=CI&logo=github-actions&style=for-the-badge) ![Wakatime stats](https://wakatime.com/badge/user/aac434b8-a027-4f92-ac90-e5b2ae48b541/project/73821d0e-fb85-4c7b-9e23-737ab53076e6.svg?style=for-the-badge)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## 🤔 What's changed
 
-## Setup
+This is an rewrite & major changes from previous version. Everything has changed here. Web framework, layouts, design, colors, theme, routing, etc. is re-designed and improved massively. I am now using Nuxt as web framework.
 
-Make sure to install the dependencies:
+## :gem: Features
 
-```bash
-# yarn
-yarn install
+-   🎨 Modern design
+-   💨 Blazing-fast performance
+-   🚀 Fast build-time with Vite
+-   ⚡️ Better routing performance
+-   🏃️ Transitions while routing
+-   🚧 Dynamic error handing
+-   🤟 Better layouting
+-   📖 Card-as-container system
+-   👀 you tell me
 
-# npm
-npm install
+## 🧑‍💻️ Developing
 
-# pnpm
-pnpm install
-```
+To get this running on your machine, you could try these steps below:
 
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
+### 📥️ Clone the repository
 
 ```bash
-npm run build
+$ git clone https://github.com/gifaldyazkaa/chocolattech.git
+$ cd chocolattech
 ```
 
-Locally preview production build:
+### 📦️ Install dependencies
 
 ```bash
-npm run preview
+$ pnpm install
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### 🏃️ Run it on development server
+
+```bash
+$ pnpm run dev
+# ...
+```
+
+### ⚡️ Optimizing for production
+
+```bash
+# Server deployment (SSR)
+$ pnpm run build
+
+# Static deployment (Pre-rendered)
+$ pnpm run generate
+```
+
+## 📃️ License
+
+Source code distributed under MIT License. See [LICENSE](./LICENSE) for more information.
