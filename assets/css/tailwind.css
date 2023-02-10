@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .button {
+        @apply font-lexend font-medium text-white text-sm inline-flex bg-chocolate-600 rounded-lg w-[21.5rem] max-w-full h-12 uppercase align-middle flex-row-reverse leading-[3rem] tracking-widest justify-end pl-[calc(0.2rem+1.5rem)] px-6 items-center transition-all hover:bg-chocolate-800 hover:ring-2 ring-[#ffb5cd] hover:text-[#ffb5cd] hover:scale-[1.050];
+    }
+    .grid-card {
+        @apply aspect-[4/3] rounded-lg md:aspect-[3/4] xl:aspect-[4/3] bg-white shadow-lg overflow-hidden relative hover:scale-95 hover:ring-2 ring-chocolate-700 transition-all duration-500;
+    }
+    .grid-card-img {
+        @apply w-full h-full bg-center absolute group-hover:scale-125 transition-all duration-500;
+    }
+}
+@layer utilities {
+    .navbar {
+        @apply mx-auto p-2 px-14;
+    }
+}
+
+/* Controls the background image */
+html {
+    @apply bg-[url('/img/bg.webp')] bg-cover bg-center;
+}
+
+/* Navigation links */
+li .navbar__link {
+    @apply hover:bg-chocolate-600 hover:rounded-md hover:text-[#ffb5cd] hover:block hover:h-7 hover:text-center transition-all;
+}
+li .navbar__link.router-link-exact-active {
+    @apply bg-chocolate-600 rounded-md text-[#ffb5cd] block h-7 w-10 text-center;
+}
+
+/* Browser scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-thumb {
+    @apply bg-[#ff93b5] hover:bg-[#ff7fa8] active:bg-[#ff6c9b];
+}
+
+/* Browser selection */
+::-moz-selection {
+    @apply bg-chocolate-700 text-[#ff93b5];
+}
+::selection {
+    @apply bg-chocolate-700 text-[#ff93b5];
+}

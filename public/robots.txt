@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /dev
 
-Sitemap: http://chocolatte.falcxxdev.ml/sitemap.xml
+Sitemap: https://chocolatte.falcxxdev.ml/sitemap.xml
