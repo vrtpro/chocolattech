@@ -6,6 +6,9 @@ export const _initHead = () => {
         htmlAttrs: {
             lang: 'en',
         },
+        bodyAttrs: {
+            style: 'height: 100vh;',
+        },
         meta: [
             // General tags
             { 'http-equiv': 'x-ua-compatible', content: 'IE=edge' },
