@@ -17,6 +17,15 @@ This is an rewrite & major changes from previous version. Everything has changed
 -   📖 Card-as-container system
 -   👀 you tell me
 
+## 🗓️ Roadmap
+
+I will put this here because I know well I won't do them. Things that can be added or improved, priority, and the reason why I didn't do it:
+
+| Task name                    | Priority | Reason                                                                                                                                                                                                            |
+| ---------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚧 Massive SEO               | High     | I was planning to rank up this website on Google & other search engines by taking SEO adventages. But I think it's bit confusing to understand about it. Unless something good happens, I will do this on next PR |
+| 📱 Progressive Web App (PWA) | Low      | Too lazy to create a service-workers, serving lots of 64x64, 128x128, 256x256 icons, and there is a lot additional meta for PWA (apple-touch-icon, etc), and who cares about installable website?                 |
+
 ## 🧑‍💻️ Developing
 
 To get this running on your machine, you could try these steps below:
