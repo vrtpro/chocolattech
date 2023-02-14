@@ -27,7 +27,7 @@ useHead({
                     <p class="text-base text-chocolate-700 my-3 text-center">
                         Newly-introduced outfit.
                         <br />
-                        Officially introduced on February 14, 2023 at 19.00 PM GMT+7
+                        Officially introduced on February 14, 2023 at 7:00 GMT+7
                         <br />
                         P.S: This model is too gorgeous. Be careful handling your diabetes level!
                     </p>
@@ -41,7 +41,14 @@ useHead({
             <div class="p-2 lg:py-16 lg:flex lg:w-1/2">
                 <div class="my-4 lg:mt-36 mx-auto">
                     <h1 class="text-2xl text-chocolate-800 text-center font-bold">Loli model</h1>
-                    <p class="text-base text-chocolate-700 my-3 text-center">To be Announced sooooooooonnnnnnnn...</p>
+                    <p class="text-base text-chocolate-700 my-3 text-center">
+                        Newly-introduced outfit too.
+                        <br />
+                        Officially introduced on February 14, 2023 at 8:10 PM GMT+7 after releasing her cover song "song
+                        for you".
+                        <br />
+                        P.S: Model picture coming soon. This model is adopt-able!
+                    </p>
                 </div>
             </div>
             <div class="p-2 lg:py-16 lg:flex-1">
