@@ -25,7 +25,11 @@ useHead({
                 <div class="my-4 lg:mt-36 mx-auto">
                     <h1 class="text-2xl text-chocolate-800 text-center font-bold">Princess model - 2022 Project</h1>
                     <p class="text-base text-chocolate-700 my-3 text-center">
-                        Newly-released outfit (Released on February 09, 2023 at 19.20 PM)
+                        Newly-introduced outfit.
+                        <br />
+                        Officially introduced on February 14, 2023 at 19.00 PM GMT+7
+                        <br />
+                        P.S: This model is too gorgeous. Be careful handling your diabetes level!
                     </p>
                 </div>
             </div>
@@ -37,7 +41,7 @@ useHead({
             <div class="p-2 lg:py-16 lg:flex lg:w-1/2">
                 <div class="my-4 lg:mt-36 mx-auto">
                     <h1 class="text-2xl text-chocolate-800 text-center font-bold">Loli model</h1>
-                    <p class="text-base text-chocolate-700 my-3 text-center">To be Announced</p>
+                    <p class="text-base text-chocolate-700 my-3 text-center">To be Announced sooooooooonnnnnnnn...</p>
                 </div>
             </div>
             <div class="p-2 lg:py-16 lg:flex-1">
