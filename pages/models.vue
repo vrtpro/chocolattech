@@ -55,6 +55,9 @@ useHead({
                 <img src="/img/loli_model.png" alt="Loli model" class="h-[25rem] m-auto" />
             </div>
         </FlexCard>
+        <h1 class="text-xl my-7 text-chocolate-800 text-center font-bold">
+            [Plan & Spoilers] Mocha & Vanilla debut (Unpredictable)
+        </h1>
     </FullScreenCard>
 </template>
 
