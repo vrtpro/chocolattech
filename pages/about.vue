@@ -55,7 +55,7 @@ const _sns = ref([
                     <p class="text-base text-chocolate-700">Started first LIVE2D debut on YouTube and Twitch.</p>
                     <h2 class="text-lg text-chocolate-600 font-bold mt-2">May 16, 2022</h2>
                     <p class="text-base text-chocolate-700">Reached 1k subscribers on YouTube.</p>
-                    <h2 class="text-lg text-chocolate-600 font-bold mt-2">February 14, 2023 [Upcoming]</h2>
+                    <h2 class="text-lg text-chocolate-600 font-bold mt-2">February 14, 2023 [Now Live]</h2>
                     <p class="text-base text-chocolate-700">Re-debut with new-look LIVE2D model & birthday party.</p>
                     <p class="text-sm text-center text-chocolate-700 my-2">and more things in future . . .</p>
                 </div>
