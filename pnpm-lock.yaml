@@ -3,14 +3,14 @@ lockfileVersion: 5.4
 specifiers:
   '@nuxtjs/tailwindcss': 6.4.0
   nuxt: 3.2.0
-  nuxt-icon: 0.3.0
+  nuxt-icon: 0.3.2
   prettier: 2.8.4
   sitemap-generator-cli: 7.5.0
 
 devDependencies:
   '@nuxtjs/tailwindcss': 6.4.0
   nuxt: 3.2.0
-  nuxt-icon: 0.3.0
+  nuxt-icon: 0.3.2
   prettier: 2.8.4
   sitemap-generator-cli: 7.5.0
 
@@ -4075,8 +4075,8 @@ packages:
       - supports-color
     dev: true
 
-  /nuxt-icon/0.3.0:
-    resolution: {integrity: sha512-t+DxtvBVxMOmgRvx1FSGfbTDtIZbuFRmJOQWNKgQ9gcEde8QkhnL5yP/UyJTdBBvSysOJNgKSvoWvKVTqWDBnQ==}
+  /nuxt-icon/0.3.2:
+    resolution: {integrity: sha512-066pfova2nE9GZDvHE9oMkqJCwsnJvOZKU2FOSzRpjfXupH3UPtP9Zw8+C2wvZ82Nel6fuRoIUNQh5Sx8ZeQrQ==}
     dependencies:
       '@iconify/vue': 4.1.0
       '@nuxt/kit': 3.2.0
