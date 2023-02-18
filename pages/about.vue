@@ -55,9 +55,57 @@ const _sns = ref([
                     <p class="text-base text-chocolate-700">Started first LIVE2D debut on YouTube and Twitch.</p>
                     <h2 class="text-lg text-chocolate-600 font-bold mt-2">May 16, 2022</h2>
                     <p class="text-base text-chocolate-700">Reached 1k subscribers on YouTube.</p>
-                    <h2 class="text-lg text-chocolate-600 font-bold mt-2">February 14, 2023 [Now Live]</h2>
+                    <h2 class="text-lg text-chocolate-600 font-bold mt-2">February 14, 2023</h2>
                     <p class="text-base text-chocolate-700">Re-debut with new-look LIVE2D model & birthday party.</p>
                     <p class="text-sm text-center text-chocolate-700 my-2">and more things in future . . .</p>
+                </div>
+            </div>
+        </div>
+        <div class="lg:flex">
+            <div class="p-2 lg:py-3 lg:flex-1">
+                <h1 class="text-3xl text-chocolate-700 font-bold">Likes</h1>
+                <h2 class="text-lg text-chocolate-600 font-bold my-2">What Choco likes?</h2>
+                <ul class="list-disc text-chocolate-700 mx-5">
+                    <li>Cats</li>
+                    <li>Cute stuff</li>
+                    <li>Watching movies / anime</li>
+                    <li>Reading books</li>
+                    <li>Reading manga / manhwa / manhua</li>
+                    <li>Sleep</li>
+                    <li>You</li>
+                </ul>
+            </div>
+            <div class="p-2 lg:py-3 lg:flex lg:w-1/3">
+                <div class="">
+                    <h1 class="text-3xl text-chocolate-800 font-bold">Dislikes</h1>
+                    <h2 class="text-lg text-chocolate-600 font-bold my-2">What Choco dislikes?</h2>
+                    <ul class="list-disc text-chocolate-700 mx-5">
+                        <li>Noise</li>
+                        <li>Pain / sick / tired</li>
+                        <li>Saying some badwords</li>
+                        <li>Emoji : <span class="font-bold">😅, 🙂, 🙃, 🗿, :v</span></li>
+                        <li>Sad feelings</li>
+                        <li>Insomnia / Sleep disorder</li>
+                        <li>Not loved by You</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="p-2 lg:py-3 lg:flex lg:w-1/3">
+                <div class="">
+                    <h1 class="text-3xl text-chocolate-800 font-bold">Goals</h1>
+                    <h2 class="text-lg text-chocolate-600 font-bold my-2">Something that Choco wants to achieve</h2>
+                    <ul class="list-disc text-chocolate-700 mx-5">
+                        <li>More cover song</li>
+                        <li>Original song release</li>
+                        <li>3D Model debut</li>
+                        <li>Active community on discord server</li>
+                        <li>Make a Webtoon about Choco's story</li>
+                        <li>10k subs</li>
+                        <li>More merchandise</li>
+                        <li>More collabs with viewers / vtuber / youtuber</li>
+                        <li>Open membersimp (Membership on YouTube)</li>
+                        <li>Mocha / vanilla debut</li>
+                    </ul>
                 </div>
             </div>
         </div>
