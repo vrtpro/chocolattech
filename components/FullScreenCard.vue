@@ -6,7 +6,7 @@
         <img
             src="/img/signature.webp"
             alt="Signature"
-            class="flex absolute h-16 bottom-[-20px] right-[-30px] -rotate-12 pointer-events-none sign"
+            class="flex absolute h-16 bottom-[-20px] right-0 md:right-[-30px] -rotate-12 pointer-events-none sign"
         />
     </div>
 </template>
