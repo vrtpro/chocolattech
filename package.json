@@ -1,6 +1,6 @@
 {
     "name": "chocolatte-nuxt",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "module",
     "scripts": {
         "build": "sitemap-generator -f ./public/sitemap.xml -g hourly -p 1.0 https://chocolatte.falcxxdev.ml/ && nuxt build",
