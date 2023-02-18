@@ -39,7 +39,7 @@ export const _initHead = () => {
         link: [
             { rel: 'icon', href: '/svgs/icon.svg', type: 'image/svg+xml' },
             { rel: 'canonical', href: 'https://chocolatte.falcxxdev.ml' },
-            { rel: 'preload', href: '/img/bg.webp', as: 'image' },
+            { rel: 'preload', href: '/img/signature.webp', as: 'image' },
             { rel: 'preload', href: '/img/neko_half.webp', as: 'image' },
         ],
     });

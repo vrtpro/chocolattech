@@ -4,7 +4,7 @@
     <FullScreenCard class="h-auto">
         <div class="p-2">
             <h1 class="text-3xl text-chocolate-700 font-bold text-center">Live Schedule</h1>
-            <FullScreenCard class="lg:w-[50rem] h-auto m-auto">
+            <FullScreenCard class="lg:w-[50rem] h-auto m-auto schedule">
                 <div>
                     <img
                         src="https://cdn.discordapp.com/attachments/949169677920268339/1075083750217613355/Skejul.png"
@@ -31,4 +31,8 @@
     </FullScreenCard>
 </template>
 
-<style></style>
+<style>
+.schedule .sign {
+    display: none;
+}
+</style>
