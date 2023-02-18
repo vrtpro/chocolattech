@@ -30,6 +30,10 @@ I will put this here because I know well I won't do them. Things that can be add
 
 To get this running on your machine, you could try these steps below:
 
+### 🛠️ Requirements
+
+A [node.js](https://nodejs.org) >= 12.16.2 setup with [pnpm](https://pnpm.io) is highly recommended.
+
 ### 📥️ Clone the repository
 
 ```bash

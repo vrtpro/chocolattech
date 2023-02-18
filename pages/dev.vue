@@ -30,19 +30,30 @@ const dev = ref({
             </div>
             <div class="px-5 lg:py-auto lg:flex lg:w-1/2">
                 <div class="mb-4 px-3 lg:my-16 m-auto">
-                    <a :href="dev.github" target="_blank" rel="noreferrer">
-                        <h1
-                            class="text-2xl text-chocolate-800 hover:text-[#ff7fa8] text-center font-bold hover:underline transition-all"
-                        >
-                            {{ dev.name }}
-                        </h1>
-                    </a>
+                    <h1
+                        class="text-2xl text-chocolate-800 hover:text-[#ff7fa8] text-center font-bold hover:underline transition-all"
+                    >
+                        <a :href="dev.github" target="_blank" rel="noreferrer">
+                            {{ dev.name }} <Icon name="mdi:wrench" class="text-sky-700" width="22" height="22" />
+                        </a>
+                    </h1>
                     <p class="text-base text-chocolate-700 text-center my-2">
                         Passionate Front-end website developer mastering in Vue & Nuxt ecosystem. Currently studying
                         Avionics (AVE).
                     </p>
                     <p class="text-sm text-chocolate-700 text-center my-2">
-                        Role: Web developer, Web admin, Web manager
+                        Highest role on Chocochips Discord server:
+                        <span class="bg-orange-500 bg-opacity-70 p-1 px-3 rounded-xl my-3 text-white">
+                            Pengawal Kerajaan Chocochips</span
+                        >
+                    </p>
+                    <p class="text-sm text-chocolate-700 text-center my-2">
+                        Highest role on YouTube - ChocoLatte Ch:
+                        <br class="block md:hidden" />
+                        <span class="bg-slate-400 bg-opacity-70 p-1 px-3 rounded-xl my-3 text-sky-700">
+                            <Icon name="mdi:wrench" width="18" height="18" />
+                            Moderator</span
+                        >
                     </p>
                     <div class="text-center">
                         <a

@@ -41,6 +41,11 @@
                                 ><Icon name="material-symbols:shopping-cart"
                             /></NuxtLink>
                         </li>
+                        <li class="navbar__list hidden md:block">
+                            <NuxtLink to="/schedule" class="navbar__link" aria-label="Schedule page"
+                                ><Icon name="material-symbols:auto-schedule-rounded"
+                            /></NuxtLink>
+                        </li>
                     </ul>
                 </div>
             </nav>
