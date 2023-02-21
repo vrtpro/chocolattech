@@ -1,4 +1,8 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useHead({
+    title: 'Live Schedule',
+});
+</script>
 
 <template>
     <FullScreenCard class="h-auto">
@@ -7,14 +11,14 @@
             <FullScreenCard class="lg:w-[50rem] h-auto m-auto schedule">
                 <div>
                     <img
-                        src="https://cdn.discordapp.com/attachments/949169677920268339/1075083750217613355/Skejul.png"
+                        src="https://cdn.discordapp.com/attachments/949169677920268339/1076862598470979684/Skejul2.png"
                         alt="Weekly schedule"
                         class="rounded-xl shadow-md hover:ring-2 ring-chocolate-700 transition-all"
                     />
                     <p class="text-chocolate-700 text-sm mt-3">
                         Schedule for February 12, 2023 - February 18, 2023
                         <br />
-                        Last updated on <code class="text-[#ff93b5] font-bold">Sat Feb 18 2023 08:17:20 GMT+7</code>
+                        Last updated on <code class="text-[#ff93b5] font-bold">Tue Feb 21 2023 21:13:10 GMT+7</code>
                     </p>
                     <a
                         href="https://www.youtube.com/@ChocoLatteCh"
