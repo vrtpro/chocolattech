@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "type": "module",
     "scripts": {
-        "build": "sitemap-generator -f ./public/sitemap.xml -g hourly -p 1.0 https://chocolatte.falcxxdev.ml/ && nuxt build",
+        "build": "sitemap-generator -f ./public/sitemap.xml -g hourly -p 1.0 https://chocolatte.falcxxdev.cyou/ && nuxt build",
         "dev": "nuxt dev",
         "generate": "nuxt generate",
         "lint": "prettier -c .",
