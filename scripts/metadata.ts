@@ -42,5 +42,13 @@ export const _initHead = () => {
             { rel: 'preload', href: '/img/signature.webp', as: 'image' },
             { rel: 'preload', href: '/img/neko_half.webp', as: 'image' },
         ],
+        script: [
+            {
+                async: true,
+                defer: true,
+                'data-website-id': '26760278-a6e3-4f8a-b5fd-fb8e01427806',
+                src: 'https://umami.falcxxdev.cyou/umami.js',
+            },
+        ],
     });
 };
