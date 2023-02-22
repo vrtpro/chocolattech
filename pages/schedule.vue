@@ -16,7 +16,7 @@ useHead({
                         class="rounded-xl shadow-md hover:ring-2 ring-chocolate-700 transition-all"
                     />
                     <p class="text-chocolate-700 text-sm mt-3">
-                        Schedule for February 12, 2023 - February 18, 2023
+                        Schedule for February 19, 2023 - February 25, 2023
                         <br />
                         Last updated on <code class="text-[#ff93b5] font-bold">Tue Feb 21 2023 21:13:10 GMT+7</code>
                     </p>
