@@ -30,10 +30,10 @@ useHead({
                 <div class="grid-card group">
                     <img class="object-cover object-center m-auto" src="/img/art/art_1.jpg" alt="Sample" />
                 </div>
-                <div class="grid-card group">
+                <div class="grid-card group bg-[#c9ecff]">
                     <img class="object-cover object-center m-auto" src="/img/art/art_2.jpg" alt="Sample" />
                 </div>
-                <div class="grid-card group">
+                <div class="grid-card group bg-[#edcaf4]">
                     <img class="object-cover object-center m-auto" src="/img/art/art_3.jpg" alt="Sample" />
                 </div>
             </div>
