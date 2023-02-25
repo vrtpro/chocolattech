@@ -31,7 +31,7 @@ export const _initHead = () => {
             },
             { name: 'og:type', content: 'website' },
             { name: 'og:site_name', content: 'Choco Latte チョコラテ' },
-            { name: 'og:url', content: 'https://chocolatte.falcxxdev.ml' },
+            { name: 'og:url', content: 'https://chocolatte.falcxxdev.cyou' },
             { name: 'og:image', content: 'https://cdn.upload.systems/uploads/WGSwMwTM.png' },
             { name: 'og:image:type', content: 'image/png' },
             { name: 'og:image:width', content: '1200' },
@@ -50,7 +50,7 @@ export const _initHead = () => {
         ],
         link: [
             { rel: 'icon', href: '/svgs/icon.svg', type: 'image/svg+xml' },
-            { rel: 'canonical', href: 'https://chocolatte.falcxxdev.ml' },
+            { rel: 'canonical', href: 'https://chocolatte.falcxxdev.cyou' },
             { rel: 'preload', href: '/img/signature.webp', as: 'image' },
             { rel: 'preload', href: '/img/neko_half.webp', as: 'image' },
         ],
