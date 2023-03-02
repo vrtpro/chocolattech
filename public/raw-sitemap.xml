@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://chocolatte.falcxxdev.cyou/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.example.com/thumbs/123.jpg</video:thumbnail_loc>
+      <video:title>Choco Latte introduction video</video:title>
+      <video:description>Introduction video about Choco Latte</video:description>
+      <video:player_loc>https://youtube.com/embed/</video:player_loc>
+    </video:video>
+  </url>
+</urlset>
