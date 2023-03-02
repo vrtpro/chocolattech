@@ -11,14 +11,14 @@ useHead({
             <FullScreenCard class="lg:w-[50rem] h-auto m-auto schedule">
                 <div>
                     <img
-                        src="https://cdn.discordapp.com/attachments/949169677920268339/1076862598470979684/Skejul2.png"
+                        src="https://cdn.discordapp.com/attachments/898543182189559880/1080883498266661015/nostream.webp"
                         alt="Weekly schedule"
                         class="rounded-xl shadow-md hover:ring-2 ring-chocolate-700 transition-all"
                     />
                     <p class="text-chocolate-700 text-sm mt-3">
-                        Schedule for February 19, 2023 - February 25, 2023
+                        Schedule for undefined
                         <br />
-                        Last updated on <code class="text-[#ff93b5] font-bold">Tue Feb 21 2023 21:13:10 GMT+7</code>
+                        Last updated on <code class="text-[#ff93b5] font-bold">Thu Mar 02 2023 23:03:17 GMT+7</code>
                     </p>
                     <a
                         href="https://www.youtube.com/@ChocoLatteCh"

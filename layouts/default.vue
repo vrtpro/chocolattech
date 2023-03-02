@@ -1,5 +1,6 @@
 <script setup lang="ts">
 _initHead();
+_greet();
 </script>
 
 <template>
