@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "type": "module",
     "scripts": {
-        "build": "sitemap-generator -f ./public/sitemap.xml -g hourly -p 1.0 https://chocolatte.falcxxdev.cyou/ && nuxt build",
+        "build": "sitemap-generator -f ./public/page-sitemap.xml -g hourly -p 1.0 -v https://chocolatte.falcxxdev.cyou/ && nuxt build",
         "dev": "nuxt dev",
         "generate": "nuxt generate",
         "lint": "prettier -c .",
@@ -17,9 +17,11 @@
     },
     "devDependencies": {
         "@nuxtjs/tailwindcss": "6.4.1",
+        "@vueuse/motion": "2.0.0-beta.12",
         "nuxt": "3.2.3",
         "nuxt-icon": "0.3.2",
         "prettier": "2.8.4",
-        "sitemap-generator-cli": "7.5.0"
+        "sitemap-generator-cli": "7.5.0",
+        "vue": "3.2.47"
     }
 }
