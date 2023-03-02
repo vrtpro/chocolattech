@@ -17,11 +17,9 @@
     },
     "devDependencies": {
         "@nuxtjs/tailwindcss": "6.4.1",
-        "@vueuse/motion": "2.0.0-beta.25",
         "nuxt": "3.2.3",
         "nuxt-icon": "0.3.2",
         "prettier": "2.8.4",
-        "sitemap-generator-cli": "7.5.0",
-        "vue": "3.2.47"
+        "sitemap-generator-cli": "7.5.0"
     }
 }
