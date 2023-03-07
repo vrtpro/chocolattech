@@ -1,7 +1,7 @@
 export const _initHead = () => {
     useHead({
         titleTemplate: titleChunk => {
-            return titleChunk ? `${titleChunk} | Choco Latte チョコラテ` : `Choco Latte VTuber`;
+            return titleChunk ? `${titleChunk} | Choco Latte VTuber` : `Choco Latte VTuber`;
         },
         htmlAttrs: {
             lang: 'en',
@@ -22,6 +22,7 @@ export const _initHead = () => {
             { name: 'author', content: 'Choco Latte チョコラテ' },
             { name: 'publisher', content: 'Falcxxdev' },
             { name: 'theme-color', content: '#ff93b5' },
+            { name: 'robots', content: 'index,follow' },
             // Opengraph (Facebook, Discord & average SNS)
             { name: 'og:title', content: 'Choco Latte VTuber' },
             {
