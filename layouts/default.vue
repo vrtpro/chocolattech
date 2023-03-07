@@ -1,6 +1,27 @@
 <script setup lang="ts">
 _initHead();
 _greet();
+
+useJsonld((): any => ({
+    '@context': 'https://schema.org/',
+    '@type': 'Person',
+    name: 'Choco Latte',
+    url: 'https://chocolatte.falcxxdev.cyou',
+    image: 'https://chocolatte.falcxxdev.cyou/img/neko_full.webp',
+    sameAs: [
+        'https://twitter.com/ChocoLatte_',
+        'https://instagram.com/chocolatte_',
+        'https://youtube.com/@ChocoLatteCh',
+        'https://www.facebook.com/ChocoLatte.Channel',
+        'https://chocolatte.falcxxdev.cyou',
+    ],
+    jobTitle: 'Virtual YouTuber',
+    gender: 'female',
+    worksFor: {
+        '@type': 'Organization',
+        name: 'Tsukimi Project',
+    },
+}));
 </script>
 
 <template>
