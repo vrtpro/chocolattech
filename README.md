@@ -51,7 +51,11 @@ $ pnpm install
 
 ```bash
 $ pnpm run dev
-# ...
+# Running on http://localhost:3000
+# or
+$ pnpm run dev --host=0.0.0.0
+# Running on http://localhost:3000
+# Running on http://192.x.x.x:3000
 ```
 
 ### ⚡️ Optimizing for production
