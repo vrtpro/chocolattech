@@ -26,7 +26,7 @@ useJsonld((): any => ({
 
 <template>
     <Navigation />
-    <NuxtLoadingIndicator color="#6E5050" />
+    <NuxtLoadingIndicator color="#FF6C9B" :throttle="0" :height="3" />
     <div class="container mx-auto p-4 font-lexend">
         <slot />
     </div>
