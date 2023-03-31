@@ -26,7 +26,7 @@ useJsonld((): any => ({
 
 <template>
     <Navigation />
-    <NuxtLoadingIndicator color="#FF6C9B" :throttle="0" :height="3" />
+    <NuxtLoadingIndicator color="var(--gradient)" :throttle="0" :height="5" />
     <div class="container mx-auto p-4 font-lexend">
         <slot />
     </div>
@@ -34,6 +34,9 @@ useJsonld((): any => ({
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;600;700&display=swap');
+:root {
+    --gradient: linear-gradient(to right, #ff0ab1, #ff002f);
+}
 .page-enter-active,
 .page-leave-active {
     transition: all 0.4s;
