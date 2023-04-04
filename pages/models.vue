@@ -23,14 +23,10 @@ useHead({
         <FlexCard>
             <div class="p-2 lg:py-16 lg:flex lg:w-1/2">
                 <div class="my-4 lg:mt-28 mx-auto">
-                    <h1 class="text-2xl text-chocolate-800 text-center font-bold">Princess model - 2022 Project</h1>
+                    <h1 class="text-2xl text-chocolate-800 text-center font-bold">Princess model</h1>
                     <p class="text-base text-chocolate-700 my-3 text-center">
-                        Newly-introduced outfit.
-                        <br />
-                        Officially introduced on February 14, 2023 at 7:00 GMT+7
-                        <br />
-                        <br />
-                        P.S: This model is too gorgeous. Be careful handling your diabetes level!
+                        Choco's already considered as an mature girl and ready for debutante. It's time for Choco to
+                        think about her kingdom safety. Would she get her power back and save the kingdom?
                     </p>
                 </div>
             </div>
@@ -43,11 +39,7 @@ useHead({
                 <div class="my-4 lg:mt-32 mx-auto">
                     <h1 class="text-2xl text-chocolate-800 text-center font-bold">Loli model</h1>
                     <p class="text-base text-chocolate-700 my-3 text-center">
-                        Newly-introduced outfit too.
-                        <br />
-                        Officially introduced on February 14, 2023 at 8:10 PM GMT+7
-                        <br />
-                        after releasing her cover song "song for you".
+                        Choco's childhood when still learn at Royal Academy to learn about magic and power.
                     </p>
                 </div>
             </div>
