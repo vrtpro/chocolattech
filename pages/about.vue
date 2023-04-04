@@ -25,7 +25,7 @@ const _sns = ref([
                     the virtual world, so her power are lost and become a fully human! How she will back to her world?
                     <br /><br />
                     Choco is native Indonesian-based Virtual YouTuber. She can speak Indonesian & English. Currently
-                    affilated with
+                    being Independent. Formerly affilated with
                     <a href="https://twitter.com/ProjectTsukimi" class="underline" target="_blank" rel="noreferrer"
                         >Tsukimi Project</a
                     >. <br />
