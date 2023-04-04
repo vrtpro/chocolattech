@@ -19,7 +19,7 @@ useJsonld((): any => ({
     gender: 'female',
     worksFor: {
         '@type': 'Organization',
-        name: 'Tsukimi Project',
+        name: 'Tsukimi Project (formerly)',
     },
 }));
 </script>
