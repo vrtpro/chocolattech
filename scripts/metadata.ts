@@ -16,7 +16,7 @@ export const _initHead = () => {
             {
                 name: 'description',
                 content:
-                    'Choco Latte (チョコラテ) is a female Indonesian VTuber under Tsukimi Project, debutting as part of its second generation',
+                    'Choco Latte (チョコラテ) is a independent female Indonesian VTuber, formerly associated with Tsukimi Project',
             },
             { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
             { name: 'author', content: 'Choco Latte チョコラテ' },
@@ -28,12 +28,12 @@ export const _initHead = () => {
             {
                 name: 'og:description',
                 content:
-                    'Choco Latte (チョコラテ) is a female Indonesian VTuber under Tsukimi Project, debutting as part of its second generation',
+                    'Choco Latte (チョコラテ) is a independent female Indonesian VTuber, formerly associated with Tsukimi Project',
             },
             { name: 'og:type', content: 'website' },
             { name: 'og:site_name', content: 'Choco Latte チョコラテ' },
             { name: 'og:url', content: 'https://chocolatte.falcxxdev.cyou' },
-            { name: 'og:image', content: 'https://cdn.upload.systems/uploads/HsN1ucP5.png' },
+            { name: 'og:image', content: 'https://cdn.upload.systems/uploads/ydDigOD1.png' },
             { name: 'og:image:type', content: 'image/png' },
             { name: 'og:image:width', content: '1200' },
             { name: 'og:image:height', content: '600' },
@@ -42,9 +42,9 @@ export const _initHead = () => {
             {
                 name: 'twitter:description',
                 content:
-                    'Choco Latte (チョコラテ) is a female Indonesian VTuber under Tsukimi Project, debutting as part of its second generation',
+                    'Choco Latte (チョコラテ) is a independent female Indonesian VTuber, formerly associated with Tsukimi Project',
             },
-            { name: 'twitter:image', content: 'https://cdn.upload.systems/uploads/HsN1ucP5.png' },
+            { name: 'twitter:image', content: 'https://cdn.upload.systems/uploads/ydDigOD1.png' },
             { name: 'twitter:card', content: 'summary_large_image' },
             { name: 'twitter:site', content: '@ChocoLatteCh_' },
             { name: 'twitter:creator', content: '@falcxxdev' },

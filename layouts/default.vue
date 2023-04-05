@@ -19,7 +19,7 @@ useJsonld((): any => ({
     gender: 'female',
     worksFor: {
         '@type': 'Organization',
-        name: 'Tsukimi Project',
+        name: 'Tsukimi Project (formerly)',
     },
 }));
 </script>
@@ -28,6 +28,14 @@ useJsonld((): any => ({
     <Navigation />
     <NuxtLoadingIndicator color="var(--gradient)" :throttle="0" :height="5" />
     <div class="container mx-auto p-4 font-lexend">
+        <Toast>
+            <h3 class="text-md font-bold"><Icon name="tabler:bell-exclamation" size="1.2em" /> Announcement</h3>
+            <p class="text-sm px-6">
+                Support is needed! See
+                <NuxtLink to="/announcement/deeptalk" class="underline text-teal-200">this announcement</NuxtLink> for
+                more information.
+            </p>
+        </Toast>
         <slot />
     </div>
 </template>

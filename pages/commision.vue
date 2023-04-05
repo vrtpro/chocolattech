@@ -37,8 +37,21 @@ useHead({
                     <img class="object-cover object-center m-auto" src="/img/art/art_3.jpg" alt="Sample" />
                 </div>
             </div>
-            <h2 class="text-lg text-chocolate-600 font-semibold my-4">Make a deal now!</h2>
-            <Button class="w-full lg:w-52" name="Pay" icon="uiw:pay" dest="/donation" />
+            <h2 class="text-lg text-chocolate-600 font-semibold my-4">Check out more information on Komisign</h2>
+            <a
+                href="https://komisign.carrd.co/"
+                target="_blank"
+                rel="noreferrer nofollow me"
+                class="button w-full lg:w-96"
+            >
+                <Icon
+                    name="material-symbols:open-in-new-rounded"
+                    class="block flex-grow-0 shrink-0"
+                    width="32"
+                    height="32"
+                />
+                <span class="flex-grow flex-shrink text-left w-full">Komisign Commision</span>
+            </a>
         </div>
     </FullScreenCard>
 </template>
