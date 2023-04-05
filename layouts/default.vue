@@ -31,8 +31,9 @@ useJsonld((): any => ({
         <Toast>
             <h3 class="text-md font-bold"><Icon name="tabler:bell-exclamation" size="1.2em" /> Announcement</h3>
             <p class="text-sm px-6">
-                Choco needs some support! See
-                <span class="underline text-teal-200">this announcement</span> for more information.
+                Support is needed! See
+                <NuxtLink to="/announcement/deeptalk" class="underline text-teal-200">this announcement</NuxtLink> for
+                more information.
             </p>
         </Toast>
         <slot />
