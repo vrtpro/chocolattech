@@ -16,7 +16,7 @@
         "email": "me@falcxxdev.ml"
     },
     "devDependencies": {
-        "@nuxtjs/tailwindcss": "6.6.7",
+        "@nuxtjs/tailwindcss": "6.6.8",
         "nuxt": "3.4.3",
         "nuxt-icon": "0.4.0",
         "nuxt-jsonld": "2.0.8",
