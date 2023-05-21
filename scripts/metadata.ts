@@ -58,7 +58,6 @@ export const _initHead = () => {
         script: [
             {
                 async: true,
-                defer: true,
                 'data-website-id': '26760278-a6e3-4f8a-b5fd-fb8e01427806',
                 src: 'https://umami.falcxxdev.cyou/script.js',
             },
