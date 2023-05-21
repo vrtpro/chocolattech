@@ -16,9 +16,9 @@ useHead({
                         class="rounded-xl shadow-md hover:ring-2 ring-chocolate-700 transition-all"
                     />
                     <p class="text-chocolate-700 text-sm mt-3">
-                        Schedule for unknown
+                        Schedule for May 21 to May 27
                         <br />
-                        Last updated on <code class="text-[#ff93b5] font-bold">Wed Apr 05 2023 00:58:35 GMT+7</code>
+                        Last updated on <code class="text-[#ff93b5] font-bold">Sun May 21 2023 16:49:00 GMT+7</code>
                     </p>
                     <a
                         href="https://www.youtube.com/@ChocoLatteCh"
