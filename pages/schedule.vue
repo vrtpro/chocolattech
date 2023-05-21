@@ -11,7 +11,7 @@ useHead({
             <FullScreenCard class="lg:w-[50rem] h-auto m-auto schedule">
                 <div>
                     <img
-                        src="https://cdn.discordapp.com/attachments/898543182189559880/1080883498266661015/nostream.webp"
+                        src="https://cdn.discordapp.com/attachments/1082594335775793182/1109778278165794876/minified_schedule_5.webp"
                         alt="Weekly schedule"
                         class="rounded-xl shadow-md hover:ring-2 ring-chocolate-700 transition-all"
                     />
