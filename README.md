@@ -17,7 +17,19 @@ This is an rewrite & major changes from previous version. Everything has changed
 -   🎴 Card-as-container system
 -   👀 you tell me
 
-## 🗓️ Roadmap
+## 🚧 Project Paused!
+
+Sorry. You may ask why, but it's happened because something unwanted happens.
+
+If you want to know, this thing is created especially for [**Choco Latte**](https://youtube.com/@ChocoLatteCh), a Virtual YouTuber based in Indonesia. She is suddenly decides to stopping her process as Virtual YouTuber & Virtual Streamer. So, I decided to pause this project too. **project's commit may be slowed**.
+
+> a short message:
+>
+> Farewell and thank you, Choco. I will always waiting for your comeback. :sob:
+
+[**Read the official post!**](https://www.facebook.com/catchocolattech/posts/772195144406766)
+
+## 🗓️ Roadmap \[Paused\]
 
 I will put this here because I know well I won't do them. Things that can be added or improved, priority, and the reason why I didn't do it:
 
