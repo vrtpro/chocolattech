@@ -32,8 +32,8 @@ export const _initHead = () => {
             },
             { name: 'og:type', content: 'website' },
             { name: 'og:site_name', content: 'Choco Latte チョコラテ' },
-            { name: 'og:url', content: 'https://chocolatte.falcxxdev.cyou' },
-            { name: 'og:image', content: 'https://cdn.upload.systems/uploads/ydDigOD1.png' },
+            { name: 'og:url', content: 'https://choco.hoshiro.space' },
+            { name: 'og:image', content: 'http://cdn.hoshiro.space/choco/graph.png' },
             { name: 'og:image:type', content: 'image/png' },
             { name: 'og:image:width', content: '1200' },
             { name: 'og:image:height', content: '600' },
@@ -44,14 +44,14 @@ export const _initHead = () => {
                 content:
                     'Choco Latte (チョコラテ) is a independent female Indonesian VTuber, formerly associated with Tsukimi Project',
             },
-            { name: 'twitter:image', content: 'https://cdn.upload.systems/uploads/ydDigOD1.png' },
+            { name: 'twitter:image', content: 'http://cdn.hoshiro.space/choco/graph.png' },
             { name: 'twitter:card', content: 'summary_large_image' },
             { name: 'twitter:site', content: '@ChocoLatteCh_' },
-            { name: 'twitter:creator', content: '@falcxxdev' },
+            { name: 'twitter:creator', content: '@azukashiic' },
         ],
         link: [
             { rel: 'icon', href: '/svgs/icon.svg', type: 'image/svg+xml' },
-            { rel: 'canonical', href: 'https://chocolatte.falcxxdev.cyou' },
+            { rel: 'canonical', href: 'https://choco.hoshiro.space' },
             { rel: 'preload', href: '/img/signature.webp', as: 'image' },
             { rel: 'preload', href: '/img/neko_half.webp', as: 'image' },
         ],
@@ -59,7 +59,7 @@ export const _initHead = () => {
             {
                 async: true,
                 'data-website-id': '26760278-a6e3-4f8a-b5fd-fb8e01427806',
-                src: 'https://umami.falcxxdev.cyou/script.js',
+                src: 'https://umami.falcxxdev.fun/script.js',
             },
         ],
     });
