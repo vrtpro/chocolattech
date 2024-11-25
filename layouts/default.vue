@@ -1,6 +1,6 @@
 <script setup lang="ts">
-_initHead();
-_greet();
+useWebMeta();
+useGreetings();
 
 useJsonld((): any => ({
     '@context': 'https://schema.org/',

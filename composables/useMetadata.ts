@@ -1,4 +1,4 @@
-export const _initHead = () => {
+export const useWebMeta = () => {
     useHead({
         titleTemplate: titleChunk => {
             return titleChunk ? `${titleChunk} | Choco Latte VTuber` : `Choco Latte VTuber`;
@@ -20,7 +20,7 @@ export const _initHead = () => {
             },
             { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
             { name: 'author', content: 'Choco Latte チョコラテ' },
-            { name: 'publisher', content: 'Falcxxdev' },
+            { name: 'publisher', content: 'Azukashiic' },
             { name: 'theme-color', content: '#ff93b5' },
             { name: 'robots', content: 'index,follow' },
             // Opengraph (Facebook, Discord & average SNS)
@@ -58,7 +58,7 @@ export const _initHead = () => {
         script: [
             {
                 async: true,
-                'data-website-id': '26760278-a6e3-4f8a-b5fd-fb8e01427806',
+                'data-website-id': 'ff027c74-3390-419b-becd-344bed766c7e',
                 src: 'https://umami.falcxxdev.fun/script.js',
             },
         ],

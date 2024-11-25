@@ -11,7 +11,4 @@ export default defineNuxtConfig({
     tailwindcss: {
         cssPath: '~/assets/css/tailwind.css',
     },
-    imports: {
-        dirs: ['./composables', './components', './scripts', './utils'],
-    },
 });
