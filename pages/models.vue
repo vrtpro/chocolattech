@@ -25,7 +25,7 @@ useHead({
                 <div class="my-4 lg:mt-28 mx-auto">
                     <h1 class="text-2xl text-chocolate-800 text-center font-bold">Princess model</h1>
                     <p class="text-base text-chocolate-700 my-3 text-center">
-                        Choco's already considered as an mature girl and ready for debutante. It's time for Choco to
+                        Choco is already considered as an mature girl and ready for debutante. It's time for Choco to
                         think about her kingdom safety. Would she get her power back and save the kingdom?
                     </p>
                 </div>
@@ -47,9 +47,6 @@ useHead({
                 <img src="/img/loli_model.webp" alt="Loli model" class="h-[25rem] m-auto" />
             </div>
         </FlexCard>
-        <h1 class="text-xl my-7 text-chocolate-800 text-center font-bold">
-            [Plan & Spoilers] Mocha & Vanilla debut (Unpredictable)
-        </h1>
     </FullScreenCard>
 </template>
 
