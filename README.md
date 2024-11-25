@@ -17,19 +17,7 @@ This is an rewrite & major changes from previous version. Everything has changed
 -   🎴 Card-as-container system
 -   👀 you tell me
 
-## 🚧 Project Paused!
-
-Sorry. You may ask why, but it's happened because something unwanted happens.
-
-If you want to know, this thing is created especially for [**Choco Latte**](https://youtube.com/@ChocoLatteCh), a Virtual YouTuber based in Indonesia. She is suddenly decides to stopping her process as Virtual YouTuber & Virtual Streamer. So, I decided to pause this project too. **project's commit may be slowed**.
-
-> a short message:
->
-> Farewell and thank you, Choco. I will always waiting for your comeback. :sob:
-
-[**Read the official post!**](https://www.facebook.com/catchocolattech/posts/772195144406766)
-
-## 🗓️ Roadmap \[Paused\]
+## 🗓️ Roadmap
 
 I will put this here because I know well I won't do them. Things that can be added or improved, priority, and the reason why I didn't do it:
 
@@ -44,28 +32,28 @@ To get this running on your machine, you could try these steps below:
 
 ### 🛠️ Requirements
 
-A [node.js](https://nodejs.org) >= 12.16.2 setup with [pnpm](https://pnpm.io) is highly recommended.
+A [node.js](https://nodejs.org) >= 12.16.2 setup with [bun](https://bun.sh) is highly recommended.
 
 ### 📥️ Clone the repository
 
 ```bash
-$ git clone https://github.com/gifaldyazkaa/chocolattech.git
+$ git clone https://github.com/vrtpro/chocolattech.git
 $ cd chocolattech
 ```
 
 ### 📦️ Install dependencies
 
 ```bash
-$ pnpm install
+$ bun install
 ```
 
 ### 🏃️ Run it on development server
 
 ```bash
-$ pnpm run dev
+$ bun dev
 # Running on http://localhost:3000
 # or
-$ pnpm run dev --host=0.0.0.0
+$ bun dev --host=0.0.0.0
 # Running on http://localhost:3000
 # Running on http://192.x.x.x:3000
 ```
@@ -74,12 +62,14 @@ $ pnpm run dev --host=0.0.0.0
 
 ```bash
 # Server deployment (SSR)
-$ pnpm run build
+$ bun build
 
 # Static deployment (Pre-rendered)
-$ pnpm run generate
+$ bun generate
 ```
 
 ## 📃️ License
 
-Source code distributed under MIT License. See [LICENSE](./LICENSE) for more information.
+This source code is licensed under [Mozilla Public License 2.0](./LICENSE).
+
+I do not own any art or content assets on this site. All copyrights belong to their respective owners.
