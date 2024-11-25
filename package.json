@@ -3,7 +3,7 @@
     "version": "1.1.0",
     "type": "module",
     "scripts": {
-        "build": "sitemap-generator -f ./public/page-sitemap.xml -g hourly -p 1.0 -v https://chocolatte.falcxxdev.cyou/ && nuxt build",
+        "build": "sitemap-generator -f ./public/page-sitemap.xml -g hourly -p 1.0 -v https://chocolatte.falcxxdev.fun/ && nuxt build",
         "dev": "nuxt dev",
         "generate": "nuxt generate",
         "lint": "prettier -c .",
@@ -12,8 +12,8 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Falcxxdev",
-        "email": "me@falcxxdev.ml"
+        "name": "Azukashiic",
+        "email": "falcxxdev@icloud.com"
     },
     "devDependencies": {
         "@nuxtjs/tailwindcss": "6.8.0",
