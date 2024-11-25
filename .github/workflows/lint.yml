@@ -20,5 +20,8 @@ jobs:
               with:
                   bun-version: latest
 
+            - name: Install Prettier 💅
+              run: bun add -D prettier
+
             - name: Check Format 🧐
               run: bun lint
