@@ -18,7 +18,7 @@ useHead({
                     <p class="text-chocolate-700 text-sm mt-3">
                         Schedule for unknown
                         <br />
-                        Last updated on <code class="text-[#ff93b5] font-bold">Mon Nov 25 2023 17:05:00 GMT+7</code>
+                        Last updated on <code class="text-[#ff93b5] font-bold">Mon Nov 25 2024 17:05:00 GMT+7</code>
                     </p>
                     <a
                         href="https://www.youtube.com/@ChocoLatteCh"
