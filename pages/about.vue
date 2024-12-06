@@ -5,7 +5,7 @@ useHead({
 
 const _sns = ref([
     { name: 'YouTube', icon: 'mdi:youtube', url: 'https://www.youtube.com/channel/UCOrmSFsEeZsMd464vcBTILg' },
-    { name: 'Twitter', icon: 'mdi:twitter', url: 'https://twitter.com/ChocoLatteCh_' },
+    { name: 'Twitter (X)', icon: 'ri:twitter-x-fill', url: 'https://twitter.com/ChocoLatteCh_' },
     { name: 'Facebook', icon: 'mdi:facebook', url: 'https://www.facebook.com/ChocoLatte.Channel' },
     { name: 'TikTok', icon: 'ic:baseline-tiktok', url: 'https://www.tiktok.com/@chocolattech_' },
     { name: 'Instagram', icon: 'mdi:instagram', url: 'https://www.instagram.com/chocolattech_' },
@@ -57,6 +57,8 @@ const _sns = ref([
                     <p class="text-base text-chocolate-700">Reached 1k subscribers on YouTube.</p>
                     <h2 class="text-lg text-chocolate-600 font-bold mt-2">February 14, 2023</h2>
                     <p class="text-base text-chocolate-700">Re-debut with new-look LIVE2D model & birthday party.</p>
+                    <h2 class="text-lg text-chocolate-600 font-bold mt-2">January 3, 2024</h2>
+                    <p class="text-base text-chocolate-700">Starting new jouney with new Voice Actor</p>
                     <p class="text-sm text-center text-chocolate-700 my-2">and more things in future . . .</p>
                 </div>
             </div>
@@ -66,12 +68,16 @@ const _sns = ref([
                 <h1 class="text-3xl text-chocolate-700 font-bold">Likes</h1>
                 <h2 class="text-lg text-chocolate-600 font-bold my-2">What Choco likes?</h2>
                 <ul class="list-disc text-chocolate-700 mx-5">
+                    <li>Gambling (but lazy to grind)</li>
                     <li>Cats</li>
+                    <li>Cosplay</li>
                     <li>Cute stuff</li>
                     <li>Watching movies / anime</li>
                     <li>Reading books</li>
                     <li>Reading manga / manhwa / manhua</li>
                     <li>Sleep</li>
+                    <li>Gaming</li>
+                    <li>Singing & listening music</li>
                     <li>You</li>
                 </ul>
             </div>
@@ -81,10 +87,13 @@ const _sns = ref([
                     <h2 class="text-lg text-chocolate-600 font-bold my-2">What Choco dislikes?</h2>
                     <ul class="list-disc text-chocolate-700 mx-5">
                         <li>Noise</li>
+                        <li>Lizzard</li>
+                        <li>Thunderstorm</li>
                         <li>Pain / sick / tired</li>
                         <li>Saying some badwords</li>
                         <li>Emoji : <span class="font-bold">😅, 🙂, 🙃, 🗿, :v</span></li>
                         <li>Sad feelings</li>
+                        <li>Anxiety / Depressed</li>
                         <li>Insomnia / Sleep disorder</li>
                         <li>Not loved by You</li>
                     </ul>
@@ -104,7 +113,6 @@ const _sns = ref([
                         <li>More merchandise</li>
                         <li>More collabs with viewers / vtuber / youtuber</li>
                         <li>Open membersimp (Membership on YouTube)</li>
-                        <li>Mocha / vanilla debut</li>
                     </ul>
                 </div>
             </div>
