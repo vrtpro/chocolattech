@@ -1,5 +1,5 @@
 [![Project banner](http://cdn.hoshiro.space/choco/gh-banner.png)](https://chocolatte.hoshiro.space)
-![Netlify status](https://api.netlify.com/api/v1/badges/a02a6f4e-ab85-4ba6-b949-612849ca920a/deploy-status) ![CI Status](https://img.shields.io/github/actions/workflow/status/gifaldyazkaa/chocolattech/lint.yml?label=CI&logo=github-actions&style=flat&labelColor=black) ![Wakatime stats](https://wakatime.com/badge/user/aac434b8-a027-4f92-ac90-e5b2ae48b541/project/73821d0e-fb85-4c7b-9e23-737ab53076e6.svg?style=flat&labelColor=black)
+![CI Status](https://img.shields.io/github/actions/workflow/status/gifaldyazkaa/chocolattech/lint.yml?label=CI&logo=github-actions&style=flat&labelColor=black) ![Wakatime stats](https://wakatime.com/badge/user/aac434b8-a027-4f92-ac90-e5b2ae48b541/project/73821d0e-fb85-4c7b-9e23-737ab53076e6.svg?style=flat&labelColor=black)
 
 ## 🤔 What's changed
 
