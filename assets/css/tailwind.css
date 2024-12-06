@@ -7,7 +7,7 @@
         @apply font-lexend font-medium text-white text-sm inline-flex bg-chocolate-600 rounded-lg w-[21.5rem] max-w-full h-12 uppercase align-middle flex-row-reverse leading-[3rem] tracking-widest justify-end pl-[calc(0.2rem+1.5rem)] px-6 items-center transition-all hover:bg-chocolate-800 hover:ring-2 ring-[#ffb5cd] hover:text-[#ffb5cd] hover:scale-[1.050];
     }
     .grid-card {
-        @apply aspect-[4/3] rounded-lg md:aspect-[3/4] xl:aspect-[4/3] bg-white shadow-lg overflow-hidden relative hover:scale-95 hover:ring-2 ring-chocolate-700 transition-all duration-500;
+        @apply rounded-lg bg-white shadow-lg overflow-hidden relative hover:scale-95 hover:ring-2 ring-chocolate-700 transition-all duration-500;
     }
     .grid-card-img {
         @apply w-full h-full bg-center absolute group-hover:scale-125 transition-all duration-500;
